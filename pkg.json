@@ -1,0 +1,17 @@
+{
+	"ns": "array",
+	"debug": false,
+	"code": {
+		"main": [
+			"js",
+			"dist",
+			"array.js"
+		],
+		"test": [
+			"test",
+			"js"
+		]
+	},
+	"src": "js/src/",
+	"out": "js/dist/"
+}
