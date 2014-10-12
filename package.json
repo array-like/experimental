@@ -5,7 +5,10 @@
 	"name": "aureooms-js-array",
 	"author": "aureooms",
 	"devDependencies": {
-		"aureooms-node-package": "^1.1.3"
+		"aureooms-node-package": "^1.1.3",
+		"aureooms-js-operator": "^0.1.3",
+		"aureooms-js-mem": "^0.0.5",
+		"aureooms-js-random": "^0.0.2"
 	},
 	"scripts": {
 		"doc": "./node_modules/.bin/groc",
