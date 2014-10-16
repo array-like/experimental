@@ -13,7 +13,7 @@
 	],
 	"main": "js/dist/array.js",
 	"name": "aureooms-js-array",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"homepage": "http://aureooms.github.io/js-array/",
 	"description": "array manipulation code bricks for JavaScript"
 }
