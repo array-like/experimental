@@ -16,6 +16,18 @@ var copy = function ( a, ai, aj, b, bi ) {
 
 exports.copy = copy;
 
+/* js/src/each.js */
+
+var each = function ( callback, array, left, right ) {
+
+	for ( ; left < right ; ++left ) {
+		callback( array[left], left, array );
+	}
+
+};
+
+exports.each = each;
+
 /* js/src/fill.js */
 
 
@@ -78,5 +90,45 @@ var __opt__ = function ( pred ) {
 
 
 exports.__opt__ = __opt__;
+
+/* js/src/repr.js */
+
+var repr = function ( array, left, right ) {
+	return JSON.stringify( slice( array, left, right ) );
+};
+
+exports.repr = repr;
+
+/* js/src/slice.js */
+
+var slice = function ( array, left, right ) {
+	return Array.prototype.slice.call( array, left, right );
+};
+
+exports.slice = slice;
+
+/* js/src/sort.js */
+
+var sort = function ( f, array ) {
+	return Array.prototype.sort.call( array, f );
+};
+
+exports.sort = sort;
+
+/* js/src/splice.js */
+
+var splice = function ( a, ai, aj, b, bi, bj ) {
+
+	if ( aj < 0 ) {
+		aj += a.length;
+	}
+
+	return Array.prototype.splice.apply(
+		a,
+		[ai, aj - ai].concat( slice( b, bi, bj ) )
+	);
+};
+
+exports.splice = splice;
 
 })(typeof exports === 'undefined' ? this['array'] = {} : exports);
