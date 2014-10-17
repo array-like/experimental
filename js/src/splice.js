@@ -1,7 +1,19 @@
 
 var splice = function ( a, ai, aj, b, bi, bj ) {
 
-	if ( aj < 0 ) {
+	if ( ai === undefined ) {
+		ai = 0;
+	}
+
+	else if ( ai < 0 ) {
+		ai += a.length;
+	}
+
+	if ( aj === undefined ) {
+		aj = ai;
+	}
+
+	else if ( aj < 0 ) {
 		aj += a.length;
 	}
 
