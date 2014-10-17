@@ -119,7 +119,19 @@ exports.sort = sort;
 
 var splice = function ( a, ai, aj, b, bi, bj ) {
 
-	if ( aj < 0 ) {
+	if ( ai === undefined ) {
+		ai = 0;
+	}
+
+	else if ( ai < 0 ) {
+		ai += a.length;
+	}
+
+	if ( aj === undefined ) {
+		aj = ai;
+	}
+
+	else if ( aj < 0 ) {
 		aj += a.length;
 	}
 
@@ -130,5 +142,97 @@ var splice = function ( a, ai, aj, b, bi, bj ) {
 };
 
 exports.splice = splice;
+
+/* js/src/split.js */
+
+
+/**
+ * rearranges an array in a lower [i, p[ and higher part [p, j[
+ *
+ * the lower part contains elements for which predicate === 0
+ * the higher part contains elements for which predicate === 1
+ *
+ * @return {int} p the position of the first element of the higher part
+ */
+
+var split = function ( predicate, a, i, j ) {
+
+	var x, y, tmp;
+
+	x = i - 1;
+	y = j;
+
+	outer : while ( true ) {
+
+		// search from right to left for an item
+		// at the wrong place
+
+		while ( true ) {
+
+			--y;
+
+			if ( x === y ) {
+				break outer;
+			}
+
+			tmp = a[y];
+
+			if ( predicate( tmp ) === 0 ) {
+				break;
+			}
+
+		}
+
+		// search from left to right for an item
+		// at the wrong place
+
+		while ( true ) {
+
+			++x;
+
+			if ( x === y ) {
+				break outer;
+			}
+
+			if ( predicate( a[x] ) === 1 ) {
+				break;
+			}
+
+		}
+
+		// swap elements that are at the wrong place
+
+		a[y] = a[x];
+		a[x] = tmp;
+
+	}
+
+	// note a[y] could be different from tmp
+	// x === y
+
+	return y + 1 - predicate( a[y] );
+
+};
+
+exports.split = split;
+
+/* js/src/swap.js */
+
+
+var swap = function ( a, ai, aj, b, bi ) {
+
+	var tmp;
+
+	for ( ; ai < aj ; ++ai, ++bi ) {
+
+		tmp = a[ai];
+		a[ai] = b[bi];
+		b[bi] = tmp;
+
+	}
+
+};
+
+exports.swap = swap;
 
 })(typeof exports === 'undefined' ? this['array'] = {} : exports);
