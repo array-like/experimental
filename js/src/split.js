@@ -64,7 +64,7 @@ var split = function ( predicate, a, i, j ) {
 	// note a[y] could be different from tmp
 	// x === y
 
-	return y + 1 - predicate( a[y] );
+	return y + 1 - ( y >= i && predicate( a[y] ) );
 
 };
 
