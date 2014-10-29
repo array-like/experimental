@@ -1,24 +1,23 @@
 
 
-var one, util, mem;
+var one, util, mem, sort, random, operator;
 
 util = require( "util" );
 mem = require( "aureooms-js-mem" );
+sort = require( "aureooms-js-sort" );
 random = require( "aureooms-js-random" );
 operator = require( "aureooms-js-operator" );
 
-one = function ( type, predicate ) {
+one = function ( type, compare ) {
 
-	var calloc, name, opt;
+	var calloc, name;
 
 	calloc = mem.__calloc__( type );
 	name = type.name;
 
-	opt = array.__opt__( predicate );
+	test( util.format( "opt (%s, %s)", name, compare ), function () {
 
-	test( util.format( "opt (%s, %s)", name, predicate ), function () {
-
-		var a, i, n, arg;
+		var a, i, n, min, max, argmin, argmax;
 
 		n = 100;
 
@@ -28,18 +27,29 @@ one = function ( type, predicate ) {
 			a[i] = random.randint( 0, operator.pow(2, 31) );
 		}
 
-		arg = opt( a, 0, n );
+		min = array.min( compare, a, 0, n );
+		max = array.max( compare, a, 0, n );
+		argmin = array.argmin( compare, a, 0, n );
+		argmax = array.argmax( compare, a, 0, n );
 
-		ok( operator.contains( a, arg ), "array contains value" );
+		ok( operator.contains( a, min ), "array contains min" );
+		ok( operator.contains( a, max ), "array contains max" );
+		ok( argmin >= 0 && argmin < n, "array contains argmin" );
+		ok( argmax >= 0 && argmax < n, "array contains argmax" );
+
+		deepEqual( a[argmin], min, "argmin is min" );
+		deepEqual( a[argmax], max, "argmax is max" );
 
 		for ( i = 0; i < n ; ++i ) {
-			ok(
-				predicate( arg, a[i] ),
-				util.format("%s pred %s is true", arg, a[i])
-			);
+			ok( compare( min, a[i] ) <= 0, util.format( "%s <= %s", min, a[i] ) );
+			ok( compare( max, a[i] ) >= 0, util.format( "%s >= %s", max, a[i] ) );
 		}
 
-		deepEqual( opt( a, 0, 0 ), undefined, "opt on empty array returns undefined" );
+		deepEqual( array.min( compare, a, 0, 0 ), undefined, "min on empty array returns undefined" );
+		deepEqual( array.max( compare, a, 0, 0 ), undefined, "max on empty array returns undefined" );
+		deepEqual( array.argmin( compare, a, 0, 0 ), undefined, "argmin on empty array returns undefined" );
+		deepEqual( array.argmax( compare, a, 0, 0 ), undefined, "argmax on empty array returns undefined" );
+
 	});
 
 };
@@ -58,12 +68,12 @@ types = [
 ];
 
 predicates = [
-	operator.le,
-	operator.ge
+	sort.increasing,
+	sort.decreasing
 ];
 
 types.forEach( function ( type ) {
-	predicates.forEach( function ( predicate ) {
-		one( type, predicate );
+	predicates.forEach( function ( compare ) {
+		one( type, compare );
 	});
 });

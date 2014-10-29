@@ -3,6 +3,66 @@
 	'use strict';
 
 
+/* js/src/argmax.js */
+
+
+var argmax = function ( compare, a, i, j ) {
+
+	var k, key, tmp;
+
+	if ( i >= j ) {
+		return undefined;
+	}
+
+	k = i;
+	key = a[k];
+
+	for ( ++i ; i < j ; ++i ) {
+
+		tmp = a[i];
+
+		if ( compare( tmp, key ) > 0 ) {
+			k = i;
+			key = tmp;
+		}
+
+	}
+
+	return k;
+};
+
+exports.argmax = argmax;
+
+/* js/src/argmin.js */
+
+
+var argmin = function ( compare, a, i, j ) {
+
+	var k, key, tmp;
+
+	if ( i >= j ) {
+		return undefined;
+	}
+
+	k = i;
+	key = a[k];
+
+	for ( ++i ; i < j ; ++i ) {
+
+		tmp = a[i];
+
+		if ( compare( tmp, key ) < 0 ) {
+			k = i;
+			key = tmp;
+		}
+
+	}
+
+	return k;
+};
+
+exports.argmin = argmin;
+
 /* js/src/copy.js */
 
 
@@ -54,42 +114,61 @@ var iota = function ( a, i, j, v ) {
 
 exports.iota = iota;
 
-/* js/src/opt.js */
+/* js/src/max.js */
 
 
+var max = function ( compare, a, i, j ) {
 
+	var key, tmp;
 
-var __opt__ = function ( pred ) {
+	if ( i >= j ) {
+		return undefined;
+	}
 
-	var opt = function ( a, i, j ) {
+	key = a[i];
 
-		var arg, tmp;
+	for ( ++i ; i < j ; ++i ) {
 
-		if ( i >= j ) {
-			return undefined;
+		tmp = a[i];
+
+		if ( compare( tmp, key ) > 0 ) {
+			key = tmp;
 		}
 
-		arg = a[i];
+	}
 
-		for ( ++i ; i < j ; ++i ) {
-
-			tmp = a[i];
-
-			if ( pred( tmp, arg ) ) {
-				arg = tmp;
-			}
-
-		}
-
-		return arg;
-	};
-
-	return opt;
-
+	return key;
 };
 
+exports.max = max;
 
-exports.__opt__ = __opt__;
+/* js/src/min.js */
+
+
+var min = function ( compare, a, i, j ) {
+
+	var key, tmp;
+
+	if ( i >= j ) {
+		return undefined;
+	}
+
+	key = a[i];
+
+	for ( ++i ; i < j ; ++i ) {
+
+		tmp = a[i];
+
+		if ( compare( tmp, key ) < 0 ) {
+			key = tmp;
+		}
+
+	}
+
+	return key;
+};
+
+exports.min = min;
 
 /* js/src/repr.js */
 
