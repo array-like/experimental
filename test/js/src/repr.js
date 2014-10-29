@@ -7,7 +7,7 @@ test( "repr", function () {
 
 	n = 10;
 
-	a = new Array( n );
+	a = array.alloc( n );
 	b = new Uint8Array( n );
 
 	array.iota( a, 0, n, 0 );

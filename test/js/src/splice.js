@@ -8,9 +8,9 @@ test( "splice", function () {
 	m = 3;
 	n = m + m;
 
-	a = new Array( m );
+	a = array.alloc( m );
 	b = new Uint8Array( m );
-	c = new Array( n );
+	c = array.alloc( n );
 
 	array.iota( a, 0, m, m );
 	array.iota( b, 0, m, 0 );

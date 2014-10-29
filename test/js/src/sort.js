@@ -19,7 +19,7 @@ test( "sort", function () {
 
 	shuffle( a, 0, n );
 
-	b = new Array( n );
+	b = array.alloc( n );
 
 	array.copy( a, 0, n, b, 0 );
 

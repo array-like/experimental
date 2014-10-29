@@ -3,6 +3,14 @@
 	'use strict';
 
 
+/* js/src/alloc.js */
+
+var alloc = function ( n ) {
+	return new Array( n );
+};
+
+exports.alloc = alloc;
+
 /* js/src/argmax.js */
 
 

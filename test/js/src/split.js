@@ -8,7 +8,7 @@ one = function ( f, a, i, j ) {
 
 	n = a.length;
 
-	b = new Array( n );
+	b = array.alloc( n );
 
 	array.copy( a, 0, n, b, 0 );
 
