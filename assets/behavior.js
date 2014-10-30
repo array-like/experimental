@@ -33,6 +33,66 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
           "foldPrefix": "^",
           "name": "JavaScript"
         },
+        "sourcePath": "/home/genius/dev/js/js-array/js/src/alloc.js",
+        "projectPath": "js/src/alloc.js",
+        "targetPath": "alloc",
+        "pageTitle": "alloc",
+        "title": "alloc"
+      },
+      "depth": 1,
+      "outline": []
+    }, {
+      "type": "file",
+      "data": {
+        "language": {
+          "nameMatchers": [".js"],
+          "pygmentsLexer": "javascript",
+          "multiLineComment": ["/*", "*", "*/"],
+          "singleLineComment": ["//"],
+          "ignorePrefix": "}",
+          "foldPrefix": "^",
+          "name": "JavaScript"
+        },
+        "sourcePath": "/home/genius/dev/js/js-array/js/src/argmax.js",
+        "projectPath": "js/src/argmax.js",
+        "targetPath": "argmax",
+        "pageTitle": "argmax",
+        "title": "argmax"
+      },
+      "depth": 1,
+      "outline": []
+    }, {
+      "type": "file",
+      "data": {
+        "language": {
+          "nameMatchers": [".js"],
+          "pygmentsLexer": "javascript",
+          "multiLineComment": ["/*", "*", "*/"],
+          "singleLineComment": ["//"],
+          "ignorePrefix": "}",
+          "foldPrefix": "^",
+          "name": "JavaScript"
+        },
+        "sourcePath": "/home/genius/dev/js/js-array/js/src/argmin.js",
+        "projectPath": "js/src/argmin.js",
+        "targetPath": "argmin",
+        "pageTitle": "argmin",
+        "title": "argmin"
+      },
+      "depth": 1,
+      "outline": []
+    }, {
+      "type": "file",
+      "data": {
+        "language": {
+          "nameMatchers": [".js"],
+          "pygmentsLexer": "javascript",
+          "multiLineComment": ["/*", "*", "*/"],
+          "singleLineComment": ["//"],
+          "ignorePrefix": "}",
+          "foldPrefix": "^",
+          "name": "JavaScript"
+        },
         "sourcePath": "/home/genius/dev/js/js-array/js/src/copy.js",
         "projectPath": "js/src/copy.js",
         "targetPath": "copy",
@@ -113,11 +173,31 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
           "foldPrefix": "^",
           "name": "JavaScript"
         },
-        "sourcePath": "/home/genius/dev/js/js-array/js/src/opt.js",
-        "projectPath": "js/src/opt.js",
-        "targetPath": "opt",
-        "pageTitle": "opt",
-        "title": "opt"
+        "sourcePath": "/home/genius/dev/js/js-array/js/src/max.js",
+        "projectPath": "js/src/max.js",
+        "targetPath": "max",
+        "pageTitle": "max",
+        "title": "max"
+      },
+      "depth": 1,
+      "outline": []
+    }, {
+      "type": "file",
+      "data": {
+        "language": {
+          "nameMatchers": [".js"],
+          "pygmentsLexer": "javascript",
+          "multiLineComment": ["/*", "*", "*/"],
+          "singleLineComment": ["//"],
+          "ignorePrefix": "}",
+          "foldPrefix": "^",
+          "name": "JavaScript"
+        },
+        "sourcePath": "/home/genius/dev/js/js-array/js/src/min.js",
+        "projectPath": "js/src/min.js",
+        "targetPath": "min",
+        "pageTitle": "min",
+        "title": "min"
       },
       "depth": 1,
       "outline": []
