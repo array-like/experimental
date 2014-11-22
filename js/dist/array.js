@@ -109,6 +109,14 @@ var fill = function ( a, i, j, v ) {
 
 exports.fill = fill;
 
+/* js/src/get.js */
+
+var get = function ( a , i ) {
+	return a[i] ;
+} ;
+
+exports.get = get ;
+
 /* js/src/iota.js */
 
 
@@ -185,6 +193,14 @@ var repr = function ( array, left, right ) {
 };
 
 exports.repr = repr;
+
+/* js/src/set.js */
+
+var set = function ( a , i , v ) {
+	a[i] = v ;
+} ;
+
+exports.set = set ;
 
 /* js/src/slice.js */
 
