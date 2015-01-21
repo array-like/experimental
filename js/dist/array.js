@@ -186,6 +186,22 @@ var min = function ( compare, a, i, j ) {
 
 exports.min = min;
 
+/* js/src/realloc.js */
+
+var realloc = function ( data , len ) {
+
+	var pt ;
+
+	pt = alloc( len ) ;
+
+	copy( data , 0 , Math.min( data.length , len ) , pt , 0 ) ;
+
+	return pt ;
+
+} ;
+
+exports.realloc = realloc ;
+
 /* js/src/repr.js */
 
 var repr = function ( array, left, right ) {
