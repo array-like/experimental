@@ -1,10 +1,10 @@
 
 
-var one, util, mem, sort, random, operator;
+var one, util, mem, compare, random, operator;
 
 util = require( "util" );
 mem = require( "aureooms-js-mem" );
-sort = require( "aureooms-js-sort" );
+compare = require( "aureooms-js-compare" );
 random = require( "aureooms-js-random" );
 operator = require( "aureooms-js-operator" );
 
@@ -68,8 +68,8 @@ types = [
 ];
 
 predicates = [
-	sort.increasing,
-	sort.decreasing
+	compare.increasing,
+	compare.decreasing
 ];
 
 types.forEach( function ( type ) {

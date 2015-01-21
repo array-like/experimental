@@ -1,9 +1,9 @@
 
 
-var sort, random, sample, shuffle;
+var compare, random, sample, shuffle;
 
 random = require( "aureooms-js-random" );
-sort = require( "aureooms-js-sort" );
+compare = require( "aureooms-js-compare" );
 sample = random.__sample__( random.randint );
 shuffle = random.__shuffle__( sample );
 
@@ -23,10 +23,18 @@ test( "sort", function () {
 
 	array.copy( a, 0, n, b, 0 );
 
-	array.sort( sort.increasing, a );
 
-	b.sort( sort.increasing );
+	array.sort( compare.increasing, a );
 
-	deepEqual( array.slice( a, 0, n ) , b, ":)" );
+	b.sort( compare.increasing );
+
+	deepEqual( array.slice( a, 0, n ) , b, "increasing" );
+
+
+	array.sort( compare.decreasing, a );
+
+	b.sort( compare.decreasing );
+
+	deepEqual( array.slice( a, 0, n ) , b, "decreasing" );
 
 });
