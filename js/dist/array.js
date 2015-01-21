@@ -337,21 +337,35 @@ exports.split = split;
 
 /* js/src/swap.js */
 
+var swap = function ( a , i , j ) {
 
-var swap = function ( a, ai, aj, b, bi ) {
+	var tmp ;
 
-	var tmp;
+	tmp  = a[i] ;
+	a[i] = a[j] ;
+	a[j] = tmp ;
 
-	for ( ; ai < aj ; ++ai, ++bi ) {
+} ;
 
-		tmp = a[ai];
-		a[ai] = b[bi];
-		b[bi] = tmp;
+exports.swap = swap ;
+
+/* js/src/swapranges.js */
+
+
+var swapranges = function ( a , ai , aj , b , bi ) {
+
+	var tmp ;
+
+	for ( ; ai < aj ; ++ai , ++bi ) {
+
+		tmp   = a[ai] ;
+		a[ai] = b[bi] ;
+		b[bi] = tmp ;
 
 	}
 
-};
+} ;
 
-exports.swap = swap;
+exports.swapranges = swapranges ;
 
 })(typeof exports === 'undefined' ? this['array'] = {} : exports);

@@ -1,17 +1,12 @@
 
+var swap = function ( a , i , j ) {
 
-var swap = function ( a, ai, aj, b, bi ) {
+	var tmp ;
 
-	var tmp;
+	tmp  = a[i] ;
+	a[i] = a[j] ;
+	a[j] = tmp ;
 
-	for ( ; ai < aj ; ++ai, ++bi ) {
+} ;
 
-		tmp = a[ai];
-		a[ai] = b[bi];
-		b[bi] = tmp;
-
-	}
-
-};
-
-exports.swap = swap;
+exports.swap = swap ;
