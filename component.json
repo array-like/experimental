@@ -1,0 +1,11 @@
+{
+	"name": "aureooms-js-array",
+	"repo": "aureooms/js-array",
+	"scripts": [
+		"js/dist/array.js"
+	],
+	"version": "2.0.1",
+	"description": "array manipulation code bricks for JavaScript",
+	"main": "js/dist/array.js",
+	"license": "AGPL-3.0"
+}
