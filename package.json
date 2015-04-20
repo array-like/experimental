@@ -10,7 +10,6 @@
 		"aureooms-js-mem": "^1.0.1",
 		"aureooms-js-random": "^1.0.1",
 		"aureooms-js-functools": "^1.2.1",
-		"aureooms-js-operator": "^1.0.1",
 		"aureooms-js-compare": "^1.4.3"
 	},
 	"scripts": {
@@ -19,7 +18,7 @@
 		"build": "./node_modules/.bin/aureooms-node-package-build"
 	},
 	"dependencies": {},
-	"version": "2.0.2",
+	"version": "2.1.0",
 	"bugs": {
 		"url": "https://github.com/aureooms/js-array/issues"
 	},
