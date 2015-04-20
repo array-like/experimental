@@ -8,7 +8,7 @@ one = function ( start, stop, step ) {
 	iterable = array.range( 0, stop, 1, [] );
 
 	deepEqual(
-		array.slice( iterable, start, stop, step, [] ),
+		array.islice( iterable, start, stop, step, [] ),
 		array.range( start, stop, step, [] ),
 		JSON.stringify( [start, stop, step] )
 	);
@@ -17,7 +17,7 @@ one = function ( start, stop, step ) {
 
 
 
-test( "slice", function () {
+test( "islice", function () {
 
 	one( 0, 0, 1 );
 	one( 0, 100, 1 );
