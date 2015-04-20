@@ -5,9 +5,9 @@ var one = function ( iterable, out ) {
 
 	msg = "reversed " + JSON.stringify( iterable );
 
-	deepEqual( itertools.reversed( iterable, [] ), out, msg )
+	deepEqual( array.reversed( iterable, [] ), out, msg )
 
-	deepEqual( itertools.reversed( out, [] ), iterable, "un" + msg );
+	deepEqual( array.reversed( out, [] ), iterable, "un" + msg );
 
 };
 

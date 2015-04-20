@@ -5,7 +5,7 @@ var one = function ( iterables, out ) {
 
 	msg = "zip " + JSON.stringify( iterables );
 
-	deepEqual( itertools.zip( iterables, [] ), out, msg );
+	deepEqual( array.zip( iterables, [] ), out, msg );
 
 	strip = function ( iterables, out ) {
 
@@ -40,7 +40,7 @@ var one = function ( iterables, out ) {
 
 	unzipped = strip( iterables, [] );
 
-	deepEqual( itertools.zip( out, [] ), unzipped, "un" + msg );
+	deepEqual( array.zip( out, [] ), unzipped, "un" + msg );
 
 };
 

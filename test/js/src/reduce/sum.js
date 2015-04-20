@@ -4,7 +4,7 @@ var one = function ( iterable, out ) {
 
 	msg = "sum " + JSON.stringify( iterable );
 
-	deepEqual( itertools.sum( iterable ), out, msg )
+	deepEqual( array.sum( iterable ), out, msg )
 
 };
 

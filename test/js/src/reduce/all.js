@@ -1,6 +1,6 @@
 
 var one = function ( obj, val ) {
-	deepEqual( itertools.all( obj ), val, "all " + JSON.stringify( obj ) );
+	deepEqual( array.all( obj ), val, "all " + JSON.stringify( obj ) );
 };
 
 

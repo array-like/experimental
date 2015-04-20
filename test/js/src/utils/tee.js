@@ -4,7 +4,7 @@ var one = function ( iterable, n, out ) {
 
 	msg = "tee " + JSON.stringify( [iterable, n] );
 
-	deepEqual( itertools.tee( iterable, n, [] ), out, msg )
+	deepEqual( array.tee( iterable, n, [] ), out, msg )
 
 };
 

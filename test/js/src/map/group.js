@@ -7,7 +7,7 @@ one = function ( key, iterable, expected ) {
 
 
 	deepEqual(
-		itertools.group( key, iterable, [] ),
+		array.group( key, iterable, [] ),
 		expected,
 		JSON.stringify( [iterable, key] )
 	);

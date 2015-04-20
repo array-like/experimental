@@ -4,7 +4,7 @@ var one = function ( callable, iterable, out ) {
 
 	msg = "reduce " + JSON.stringify( iterable );
 
-	deepEqual( itertools.reduce( callable, iterable, 0 ), out, msg )
+	deepEqual( array.reduce( callable, iterable, 0 ), out, msg )
 
 };
 

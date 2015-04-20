@@ -4,7 +4,7 @@ var one = function ( callable, iterable, out ) {
 
 	msg = "map " + JSON.stringify( iterable );
 
-	deepEqual( itertools.map( callable, iterable, [] ), out, msg )
+	deepEqual( array.map( callable, iterable, [] ), out, msg )
 
 };
 

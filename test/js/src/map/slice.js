@@ -5,11 +5,11 @@ one = function ( start, stop, step ) {
 
 	var iterable;
 
-	iterable = itertools.range( 0, stop, 1, [] );
+	iterable = array.range( 0, stop, 1, [] );
 
 	deepEqual(
-		itertools.slice( iterable, start, stop, step, [] ),
-		itertools.range( start, stop, step, [] ),
+		array.slice( iterable, start, stop, step, [] ),
+		array.range( start, stop, step, [] ),
 		JSON.stringify( [start, stop, step] )
 	);
 

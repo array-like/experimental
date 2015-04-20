@@ -11,13 +11,13 @@ one = function ( f, a ) {
 
 	var b, i, initializer;
 
-	b = itertools.sorted( f, a );
+	b = array.sorted( f, a );
 
 	deepEqual( b.length, a.length, "length check" );
 
 	initializer = {};
 
-	itertools.reduce( function ( x, y ) {
+	array.reduce( function ( x, y ) {
 
 		if ( x !== initializer ) {
 

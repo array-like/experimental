@@ -5,7 +5,7 @@ one = function ( item, times, expected ) {
 
 
 	deepEqual(
-		itertools.repeat( item, times, [] ),
+		array.repeat( item, times, [] ),
 		expected,
 		JSON.stringify( [item, times] )
 	);

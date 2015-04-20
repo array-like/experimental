@@ -8,7 +8,7 @@ one = function ( iterable, predicate, expected ) {
 
 
 	deepEqual(
-		itertools.dropwhile( predicate, iterable, [] ),
+		array.dropwhile( predicate, iterable, [] ),
 		expected,
 		JSON.stringify( [iterable, predicate] )
 	);
@@ -20,21 +20,21 @@ one = function ( iterable, predicate, expected ) {
 test( "dropwhile", function () {
 
 	one(
-		itertools.range( 0, 100, 1, [] ),
+		array.range( 0, 100, 1, [] ),
 		functools.rpartial( operator.lt, null, [50] ),
-		itertools.range( 50, 100, 1, [] )
+		array.range( 50, 100, 1, [] )
 	);
 
 	one(
-		itertools.range( 0, 100, 1, [] ),
+		array.range( 0, 100, 1, [] ),
 		functools.rpartial( operator.lt, null, [100] ),
-		itertools.range( 0, 0, 1, [] )
+		array.range( 0, 0, 1, [] )
 	);
 
 	one(
-		itertools.range( 0, 0, 1, [] ),
+		array.range( 0, 0, 1, [] ),
 		functools.rpartial( operator.lt, null, [1] ),
-		itertools.range( 0, 0, 1, [] )
+		array.range( 0, 0, 1, [] )
 	);
 
 });

@@ -7,7 +7,7 @@ one = function ( iterable, repeat, expected ) {
 
 
 	deepEqual(
-		itertools.permutations( iterable, repeat, [] ),
+		array.permutations( iterable, repeat, [] ),
 		expected,
 		JSON.stringify( [iterable, repeat] )
 	);
@@ -33,7 +33,7 @@ test( "permutations", function () {
 	);
 
 	one(
-		itertools.range( 0, 3, 1, [] ),
+		array.range( 0, 3, 1, [] ),
 		3,
 		[ [0,1,2], [0,2,1], [1,0,2], [1,2,0], [2,0,1], [2,1,0] ]
 	);

@@ -8,7 +8,7 @@ one = function ( iterables, repeat, expected ) {
 
 
 	deepEqual(
-		itertools.product( iterables, repeat, [] ),
+		array.product( iterables, repeat, [] ),
 		expected,
 		JSON.stringify( [iterables, repeat] )
 	);

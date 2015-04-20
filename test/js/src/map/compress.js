@@ -5,7 +5,7 @@ one = function ( iterable, selector, expected ) {
 
 
 	deepEqual(
-		itertools.compress( iterable, selector, [] ),
+		array.compress( iterable, selector, [] ),
 		expected,
 		JSON.stringify( [iterable, selector] )
 	);
