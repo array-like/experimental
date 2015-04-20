@@ -1,7 +1,6 @@
-[js-array](http://aureooms.github.io/js-array)
-==
+#[js-array](http://aureooms.github.io/js-array)
 
-array manipulation code bricks for JavaScript
+Array manipulation code bricks for JavaScript.
 
 [![NPM license](http://img.shields.io/npm/l/aureooms-js-array.svg?style=flat)](https://raw.githubusercontent.com/aureooms/js-array/master/LICENSE)
 [![NPM version](http://img.shields.io/npm/v/aureooms-js-array.svg?style=flat)](https://www.npmjs.org/package/aureooms-js-array)

@@ -21,19 +21,19 @@ test( "takewhile", function () {
 
 	one(
 		array.range( 0, 100, 1, [] ),
-		functools.rpartial( operator.lt, null, [50] ),
+		functools.rpartial( operator.lt, [50] ),
 		array.range( 0, 50, 1, [] )
 	);
 
 	one(
 		array.range( 0, 100, 1, [] ),
-		functools.rpartial( operator.lt, null, [100] ),
+		functools.rpartial( operator.lt, [100] ),
 		array.range( 0, 100, 1, [] )
 	);
 
 	one(
 		array.range( 0, 0, 1, [] ),
-		functools.rpartial( operator.lt, null, [1] ),
+		functools.rpartial( operator.lt, [1] ),
 		array.range( 0, 0, 1, [] )
 	);
 

@@ -4,9 +4,7 @@ random = require( "aureooms-js-random" ) ;
 
 test( "set", function ( ) {
 
-	var a , b , i , n , shuffle ;
-
-	shuffle = random.__shuffle__( random.__sample__( random.randint ) ) ;
+	var a , b , i , n ;
 
 	n = 10 ;
 
@@ -14,7 +12,7 @@ test( "set", function ( ) {
 
 	array.iota( a , 0 , n , 0 ) ;
 
-	shuffle( a , 0 , n ) ;
+	random.shuffle( a , 0 , n ) ;
 
 	b = array.alloc( n ) ;
 
