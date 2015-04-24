@@ -753,6 +753,46 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
           "foldPrefix": "^",
           "name": "JavaScript"
         },
+        "sourcePath": "/home/aureooms/dev/js/js-array/js/src/reverse.js",
+        "projectPath": "js/src/reverse.js",
+        "targetPath": "reverse",
+        "pageTitle": "reverse",
+        "title": "reverse"
+      },
+      "depth": 1,
+      "outline": []
+    }, {
+      "type": "file",
+      "data": {
+        "language": {
+          "nameMatchers": [".js"],
+          "pygmentsLexer": "javascript",
+          "multiLineComment": ["/*", "*", "*/"],
+          "singleLineComment": ["//"],
+          "ignorePrefix": "}",
+          "foldPrefix": "^",
+          "name": "JavaScript"
+        },
+        "sourcePath": "/home/aureooms/dev/js/js-array/js/src/rotate.js",
+        "projectPath": "js/src/rotate.js",
+        "targetPath": "rotate",
+        "pageTitle": "rotate",
+        "title": "rotate"
+      },
+      "depth": 1,
+      "outline": []
+    }, {
+      "type": "file",
+      "data": {
+        "language": {
+          "nameMatchers": [".js"],
+          "pygmentsLexer": "javascript",
+          "multiLineComment": ["/*", "*", "*/"],
+          "singleLineComment": ["//"],
+          "ignorePrefix": "}",
+          "foldPrefix": "^",
+          "name": "JavaScript"
+        },
         "sourcePath": "/home/aureooms/dev/js/js-array/js/src/set.js",
         "projectPath": "js/src/set.js",
         "targetPath": "set",
