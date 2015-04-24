@@ -919,6 +919,35 @@ var repr = function ( array, left, right ) {
 
 exports.repr = repr;
 
+/* js/src/reverse.js */
+
+var reverse = function ( a , i , j ) {
+
+	while ( i < j ) swap( a , i++ , --j ) ;
+
+} ;
+
+exports.reverse = reverse ;
+
+/* js/src/rotate.js */
+
+/**
+ * In place O(n).
+ *
+ * Rotate right version.
+ * See http://prakhar.me/articles/the-string-rotation-problem/.
+ */
+
+var rotate = function ( a , i , j , n ) {
+
+	reverse( a , i , j ) ;
+	reverse( a , i , i + n ) ;
+	reverse( a , i + n , j ) ;
+
+} ;
+
+exports.rotate = rotate ;
+
 /* js/src/set.js */
 
 var set = function ( a , i , v ) {
