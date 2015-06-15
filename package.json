@@ -5,11 +5,11 @@
 	"name": "aureooms-js-array",
 	"author": "aureooms",
 	"devDependencies": {
-		"aureooms-node-package": "^4.1.0",
-		"aureooms-js-operator": "^1.0.1",
-		"aureooms-js-mem": "^1.0.1",
+		"aureooms-node-package": "^4.2.5",
+		"aureooms-js-operator": "^1.0.2",
+		"aureooms-js-mem": "^1.0.2",
 		"aureooms-js-random": "^1.0.1",
-		"aureooms-js-functools": "^1.2.1",
+		"aureooms-js-functools": "^2.0.3",
 		"aureooms-js-compare": "^1.4.3"
 	},
 	"scripts": {
