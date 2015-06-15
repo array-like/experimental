@@ -1,0 +1,47 @@
+<!DOCTYPE html><html lang="en"><head><title>split</title></head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0"><meta name="groc-relative-root" content=""><meta name="groc-document-path" content="split"><meta name="groc-project-path" content="js/src/split.js"><meta name="groc-github-url" content="https://github.com/aureooms/js-array"><link rel="stylesheet" type="text/css" media="all" href="assets/style.css"><script type="text/javascript" src="assets/behavior.js"></script><body><div id="meta"><div class="file-path"><a href="https://github.com/aureooms/js-array/blob/master/js/src/split.js">js/src/split.js</a></div></div><div id="document"><div class="segment"></div><div class="segment"><div class="comments doc-section"><div class="wrapper"><p>rearranges an array in a lower [i, p[ and higher part [p, j[</p>
+<p>the lower part contains elements for which predicate === 0
+the higher part contains elements for which predicate === 1</p>
+<p><strong>Returns an int</strong><br/>(p the position of the first element of the higher part)</p></div></div><div class="code"><div class="wrapper"><span class="hljs-keyword">var</span> split = <span class="hljs-function"><span class="hljs-keyword">function</span> (<span class="hljs-params"> predicate, a, i, j </span>) </span>{
+
+	<span class="hljs-keyword">var</span> x, y, tmp;
+
+	x = i - <span class="hljs-number">1</span>;
+	y = j;
+
+	outer : <span class="hljs-keyword">while</span> ( <span class="hljs-literal">true</span> ) {</div></div></div><div class="segment"><div class="comments "><div class="wrapper"><p>search from right to left for an item
+at the wrong place</p></div></div><div class="code"><div class="wrapper">		<span class="hljs-keyword">while</span> ( <span class="hljs-literal">true</span> ) {
+
+			--y;
+
+			<span class="hljs-keyword">if</span> ( x === y ) {
+				<span class="hljs-keyword">break</span> outer;
+			}
+
+			tmp = a[y];
+
+			<span class="hljs-keyword">if</span> ( predicate( tmp ) === <span class="hljs-number">0</span> ) {
+				<span class="hljs-keyword">break</span>;
+			}
+
+		}</div></div></div><div class="segment"><div class="comments "><div class="wrapper"><p>search from left to right for an item
+at the wrong place</p></div></div><div class="code"><div class="wrapper">		<span class="hljs-keyword">while</span> ( <span class="hljs-literal">true</span> ) {
+
+			++x;
+
+			<span class="hljs-keyword">if</span> ( x === y ) {
+				<span class="hljs-keyword">break</span> outer;
+			}
+
+			<span class="hljs-keyword">if</span> ( predicate( a[x] ) === <span class="hljs-number">1</span> ) {
+				<span class="hljs-keyword">break</span>;
+			}
+
+		}</div></div></div><div class="segment"><div class="comments "><div class="wrapper"><p>swap elements that are at the wrong place</p></div></div><div class="code"><div class="wrapper">		a[y] = a[x];
+		a[x] = tmp;
+
+	}</div></div></div><div class="segment"><div class="comments "><div class="wrapper"><p>note a[y] could be different from tmp
+x === y</p></div></div><div class="code"><div class="wrapper">	<span class="hljs-keyword">return</span> y + <span class="hljs-number">1</span> - ( y &gt;= i &amp;&amp; predicate( a[y] ) );
+
+};
+
+exports.split = split;</div></div></div></div></body></html>
