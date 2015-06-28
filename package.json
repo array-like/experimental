@@ -1,38 +1,41 @@
 {
-	"license": "AGPL-3.0",
-	"homepage": "http://aureooms.github.io/js-array/",
-	"main": "js/dist/array.js",
-	"name": "aureooms-js-array",
-	"author": "aureooms",
-	"devDependencies": {
-		"aureooms-node-package": "^4.2.5",
-		"aureooms-js-operator": "^1.0.2",
-		"aureooms-js-mem": "^1.0.2",
-		"aureooms-js-random": "^1.0.2",
-		"aureooms-js-functools": "^2.0.3",
-		"aureooms-js-compare": "^1.4.4"
-	},
-	"scripts": {
-		"doc": "./node_modules/.bin/groc",
-		"test": "./node_modules/.bin/aureooms-node-package-test",
-		"build": "./node_modules/.bin/aureooms-node-package-build"
-	},
-	"dependencies": {},
-	"version": "2.2.1",
-	"bugs": {
-		"url": "https://github.com/aureooms/js-array/issues"
-	},
-	"description": "array manipulation code bricks for JavaScript",
-	"keywords": [
-		"array",
-		"bricks",
-		"javascript",
-		"js",
-		"loop",
-		"vector"
-	],
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/aureooms/js-array.git"
-	}
+  "license": "AGPL-3.0",
+  "homepage": "http://aureooms.github.io/js-array/",
+  "main": "js/dist/array.js",
+  "name": "aureooms-js-array",
+  "author": "aureooms",
+  "devDependencies": {
+    "aureooms-node-package": "^4.2.5",
+    "aureooms-js-operator": "^1.0.2",
+    "aureooms-js-mem": "^1.0.2",
+    "aureooms-js-random": "^1.0.2",
+    "aureooms-js-functools": "^2.0.3",
+    "aureooms-js-compare": "^1.4.4"
+  },
+  "scripts": {
+    "doc": "./node_modules/.bin/groc",
+    "test": "./node_modules/.bin/aureooms-node-package-test",
+    "build": "./node_modules/.bin/aureooms-node-package-build"
+  },
+  "dependencies": {},
+  "version": "2.2.1",
+  "bugs": {
+    "url": "https://github.com/aureooms/js-array/issues"
+  },
+  "description": "array manipulation code bricks for JavaScript",
+  "keywords": [
+    "array",
+    "bricks",
+    "javascript",
+    "js",
+    "loop",
+    "vector"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aureooms/js-array.git"
+  },
+  "spm": {
+    "main": "js/dist/array.js"
+  }
 }
