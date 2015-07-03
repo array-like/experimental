@@ -111,6 +111,17 @@ var fill = function ( a, i, j, v ) {
 
 exports.fill = fill;
 
+/* js/src/fillfn.js */
+
+
+var fillfn = function ( a , i , j , fn ) {
+
+	for ( ; i < j ; ++i ) a[i] = fn( ) ;
+
+} ;
+
+exports.fillfn = fillfn ;
+
 /* js/src/get.js */
 
 var get = function ( a , i ) {
