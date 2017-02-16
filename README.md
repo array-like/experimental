@@ -9,7 +9,7 @@ Parent is [@aureooms/js-library](https://github.com/aureooms/js-library).
 let buffer = array.alloc( 10000 ) ;
 ```
 
-[![NPM license](https://img.shields.io/npm/l/@aureooms/js-array.svg?style=flat)](https://raw.githubusercontent.com/aureooms/js-array/master/LICENSE)
+[![License](https://img.shields.io/github/license/aureooms/js-array.svg?style=flat)](https://raw.githubusercontent.com/aureooms/js-array/master/LICENSE)
 [![NPM version](https://img.shields.io/npm/v/@aureooms/js-array.svg?style=flat)](https://www.npmjs.org/package/@aureooms/js-array)
 [![Build Status](https://img.shields.io/travis/aureooms/js-array.svg?style=flat)](https://travis-ci.org/aureooms/js-array)
 [![Coverage Status](https://img.shields.io/coveralls/aureooms/js-array.svg?style=flat)](https://coveralls.io/r/aureooms/js-array)
