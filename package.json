@@ -30,7 +30,7 @@
     "@aureooms/js-itertools": "^3.1.1",
     "@aureooms/js-mem": "^1.0.2",
     "@aureooms/js-operator": "^1.0.2",
-    "@aureooms/js-random": "^1.0.2",
+    "@aureooms/js-random": "^2.0.0",
     "ava": "^0.18.1",
     "babel-cli": "^6.22.2",
     "babel-polyfill": "^6.22.0",
