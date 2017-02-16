@@ -8,7 +8,7 @@ import 'babel-polyfill' ;
 
 Then
 ```js
-const array = require( 'aureooms-js-array' ) ;
+const array = require( '@aureooms/js-array' ) ;
 // or
-import array from 'aureooms-js-array' ;
+import array from '@aureooms/js-array' ;
 ```
