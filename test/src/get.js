@@ -2,7 +2,7 @@ import test from 'ava';
 import * as array from '../../src';
 
 
-import random from "aureooms-js-random" ;
+import random from "@aureooms/js-random" ;
 
 test( "get", t => {
 

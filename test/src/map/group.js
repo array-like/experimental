@@ -2,7 +2,7 @@ import test from 'ava';
 import * as array from '../../../src';
 
 
-import operator from "aureooms-js-operator" ;
+import operator from "@aureooms/js-operator" ;
 test( "group", t => {
 
 function one ( key, iterable, expected ) {

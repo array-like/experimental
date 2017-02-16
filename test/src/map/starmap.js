@@ -1,7 +1,7 @@
 import test from 'ava';
 import * as array from '../../../src';
 
-import operator from "aureooms-js-operator" ;
+import operator from "@aureooms/js-operator" ;
 test( "starmap", t => {
 
 function one ( callable, iterable, out ) {

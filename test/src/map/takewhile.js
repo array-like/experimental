@@ -2,8 +2,8 @@ import test from 'ava';
 import * as array from '../../../src';
 
 
-import functools from "aureooms-js-functools" ;
-import operator from "aureooms-js-operator" ;
+import functools from "@aureooms/js-functools" ;
+import operator from "@aureooms/js-operator" ;
 test( "takewhile", t => {
 
 function one ( iterable, predicate, expected ) {

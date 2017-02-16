@@ -4,7 +4,7 @@ import * as array from '../../src';
 
 
 import util from "util" ;
-import mem from "aureooms-js-mem" ;
+import mem from "@aureooms/js-memory" ;
 
 function one ( type ) {
 

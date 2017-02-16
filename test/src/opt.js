@@ -4,10 +4,10 @@ import * as array from '../../src';
 
 
 import util from "util" ;
-import mem from "aureooms-js-mem" ;
-import compare from "aureooms-js-compare" ;
-import random from "aureooms-js-random" ;
-import operator from "aureooms-js-operator" ;
+import mem from "@aureooms/js-memory" ;
+import compare from "@aureooms/js-compare" ;
+import random from "@aureooms/js-random" ;
+import operator from "@aureooms/js-operator" ;
 
 function one ( type, compare ) {
 
