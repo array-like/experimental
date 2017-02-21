@@ -4,16 +4,16 @@ import * as array from '../../src';
 
 
 import util from "util" ;
-import mem from "@aureooms/js-memory" ;
+import * as mem from "@aureooms/js-memory" ;
 import compare from "@aureooms/js-compare" ;
-import random from "@aureooms/js-random" ;
+import * as random from "@aureooms/js-random" ;
 import operator from "@aureooms/js-operator" ;
 
 function one ( type, compare ) {
 
 	var calloc, name;
 
-	calloc = mem.__calloc__( type );
+	calloc = mem._calloc( type );
 	name = type.name;
 
 test( util.format( "opt (%s, %s)", name, compare ), t => {

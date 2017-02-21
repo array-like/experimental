@@ -3,7 +3,7 @@ import * as array from '../../src';
 
 
 
-import random from "@aureooms/js-random" ;
+import * as random from "@aureooms/js-random" ;
 import compare from "@aureooms/js-compare" ;
 
 test( "sort", t => {
