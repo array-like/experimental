@@ -1,4 +1,4 @@
-[@aureooms/js-array](https://aureooms.github.io/js-array)
+:nut_and_bolt: [@aureooms/js-array](https://aureooms.github.io/js-array)
 ==
 
 Array manipulation library for JavaScript.
