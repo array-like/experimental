@@ -4,7 +4,7 @@ import * as array from '../../../src';
 
 import util from "util" ;
 
-import compare from "@aureooms/js-compare" ;
+import * as compare from "@aureooms/js-compare" ;
 
 import operator from "@aureooms/js-operator" ;
 test( "sorted", t => {

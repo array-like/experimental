@@ -25,7 +25,7 @@ test( "set", t => {
 
 	for ( i = 0 ; i < n ; ++i ) {
 
-		t.deepEqual( b[i] , a[i] , i ) ;
+		t.deepEqual( b[i] , a[i] , `${i}` ) ;
 
 	}
 

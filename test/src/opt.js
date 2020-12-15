@@ -5,7 +5,7 @@ import * as array from '../../src';
 
 import util from "util" ;
 import * as mem from "@aureooms/js-memory" ;
-import compare from "@aureooms/js-compare" ;
+import * as compare from "@aureooms/js-compare" ;
 import * as random from "@aureooms/js-random" ;
 import operator from "@aureooms/js-operator" ;
 

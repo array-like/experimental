@@ -18,7 +18,7 @@ test( "get", t => {
 
 	for ( i = 0 ; i < n ; ++i ) {
 
-		t.deepEqual( array.get( a , i ) , a[i] , i ) ;
+		t.deepEqual( array.get( a , i ) , a[i] , `${i}` ) ;
 
 	}
 

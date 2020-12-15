@@ -12,7 +12,7 @@ test( "each", t => {
 	array.each( function ( item, index, b ) {
 
 		c.push( item * index );
-		t.deepEqual( b, a, index );
+		t.deepEqual( b, a, `${index}` );
 
 	}, a , 1, 4 );
 

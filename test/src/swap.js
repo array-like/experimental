@@ -8,9 +8,11 @@ import * as mem from "@aureooms/js-memory" ;
 import * as random from "@aureooms/js-random" ;
 import operator from "@aureooms/js-operator" ;
 
-function one ( calloc ) {
+function one (Constructor) {
 
-test( util.format( "swap (%s)" , calloc ) , t => {
+	const calloc = mem._calloc(Constructor);
+
+	test( `swap (${Constructor})`, t => {
 
 		var a , b , i , j , n , ai , aj ;
 
@@ -53,22 +55,21 @@ test( util.format( "swap (%s)" , calloc ) , t => {
 
 } ;
 
-const allocators = [
-	mem._calloc(Array) ,
-	mem._calloc(Int8Array) ,
-	mem._calloc(Int16Array) ,
-	mem._calloc(Int32Array) ,
-	mem._calloc(Uint8Array) ,
-	mem._calloc(Uint16Array) ,
-	mem._calloc(Uint32Array) ,
-	mem._calloc(Uint8ClampedArray) ,
-	mem._calloc(Float32Array) ,
-	mem._calloc(Float64Array)
-] ;
+const arrays = [
+	Array,
+	Int8Array,
+	Int16Array,
+	Int32Array,
+	Uint8Array,
+	Uint16Array,
+	Uint32Array,
+	Uint8ClampedArray,
+	Float32Array,
+	Float64Array,
+];
 
-allocators.forEach( function ( calloc ) {
+arrays.forEach( function ( Constructor ) {
 
-	one( calloc ) ;
+	one( Constructor );
 
-} ) ;
-
+});
