@@ -1,3 +1,4 @@
+# Examples
 
 ```js
 let A = array.alloc( 10000 ) ;
