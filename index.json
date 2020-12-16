@@ -1,0 +1,3131 @@
+[
+  {
+    "__docId__": 1,
+    "kind": "external",
+    "name": "Infinity",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Infinity",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Infinity",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 2,
+    "kind": "external",
+    "name": "NaN",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~NaN",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 3,
+    "kind": "external",
+    "name": "undefined",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~undefined",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 4,
+    "kind": "external",
+    "name": "null",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/null",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~null",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 5,
+    "kind": "external",
+    "name": "Object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 6,
+    "kind": "external",
+    "name": "object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 7,
+    "kind": "external",
+    "name": "Function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 8,
+    "kind": "external",
+    "name": "function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 9,
+    "kind": "external",
+    "name": "Boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 10,
+    "kind": "external",
+    "name": "boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 11,
+    "kind": "external",
+    "name": "Symbol",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Symbol",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 12,
+    "kind": "external",
+    "name": "Error",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Error",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 13,
+    "kind": "external",
+    "name": "EvalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/EvalError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~EvalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 14,
+    "kind": "external",
+    "name": "InternalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/InternalError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~InternalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 15,
+    "kind": "external",
+    "name": "RangeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RangeError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~RangeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 16,
+    "kind": "external",
+    "name": "ReferenceError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ReferenceError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~ReferenceError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 17,
+    "kind": "external",
+    "name": "SyntaxError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SyntaxError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~SyntaxError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 18,
+    "kind": "external",
+    "name": "TypeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypeError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~TypeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 19,
+    "kind": "external",
+    "name": "URIError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/URIError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~URIError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 20,
+    "kind": "external",
+    "name": "Number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 21,
+    "kind": "external",
+    "name": "number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 22,
+    "kind": "external",
+    "name": "Date",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Date",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 23,
+    "kind": "external",
+    "name": "String",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~String",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 24,
+    "kind": "external",
+    "name": "string",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~string",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 25,
+    "kind": "external",
+    "name": "RegExp",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~RegExp",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 26,
+    "kind": "external",
+    "name": "Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 27,
+    "kind": "external",
+    "name": "Int8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int8Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 28,
+    "kind": "external",
+    "name": "Uint8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 29,
+    "kind": "external",
+    "name": "Uint8ClampedArray",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8ClampedArray",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint8ClampedArray",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 30,
+    "kind": "external",
+    "name": "Int16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int16Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 31,
+    "kind": "external",
+    "name": "Uint16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint16Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 32,
+    "kind": "external",
+    "name": "Int32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 33,
+    "kind": "external",
+    "name": "Uint32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 34,
+    "kind": "external",
+    "name": "Float32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Float32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 35,
+    "kind": "external",
+    "name": "Float64Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float64Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Float64Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 36,
+    "kind": "external",
+    "name": "Map",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Map",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 37,
+    "kind": "external",
+    "name": "Set",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Set",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 38,
+    "kind": "external",
+    "name": "WeakMap",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakMap",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~WeakMap",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 39,
+    "kind": "external",
+    "name": "WeakSet",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~WeakSet",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 40,
+    "kind": "external",
+    "name": "ArrayBuffer",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ArrayBuffer",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~ArrayBuffer",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 41,
+    "kind": "external",
+    "name": "DataView",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~DataView",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 42,
+    "kind": "external",
+    "name": "JSON",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~JSON",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 43,
+    "kind": "external",
+    "name": "Promise",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Promise",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 44,
+    "kind": "external",
+    "name": "Generator",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Generator",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 45,
+    "kind": "external",
+    "name": "GeneratorFunction",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/GeneratorFunction",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~GeneratorFunction",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 46,
+    "kind": "external",
+    "name": "Reflect",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Reflect",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 47,
+    "kind": "external",
+    "name": "Proxy",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Proxy",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 48,
+    "kind": "file",
+    "name": "src/alloc.js",
+    "content": "\nexport function alloc ( n ) {\n\treturn new Array( n );\n}\n\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/js-array/src/alloc.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 49,
+    "kind": "function",
+    "name": "alloc",
+    "memberof": "src/alloc.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/alloc.js~alloc",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-array/src/alloc.js",
+    "importStyle": "{alloc}",
+    "description": null,
+    "lineNumber": 2,
+    "undocument": true,
+    "params": [
+      {
+        "name": "n",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 50,
+    "kind": "file",
+    "name": "src/argmax.js",
+    "content": "\n\nexport function argmax ( compare, a, i, j ) {\n\n\tvar k, key, tmp;\n\n\tif ( i >= j ) {\n\t\treturn undefined;\n\t}\n\n\tk = i;\n\tkey = a[k];\n\n\tfor ( ++i ; i < j ; ++i ) {\n\n\t\ttmp = a[i];\n\n\t\tif ( compare( tmp, key ) > 0 ) {\n\t\t\tk = i;\n\t\t\tkey = tmp;\n\t\t}\n\n\t}\n\n\treturn k;\n}\n\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/js-array/src/argmax.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 51,
+    "kind": "function",
+    "name": "argmax",
+    "memberof": "src/argmax.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/argmax.js~argmax",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-array/src/argmax.js",
+    "importStyle": "{argmax}",
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "params": [
+      {
+        "name": "compare",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "a",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "i",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "j",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 52,
+    "kind": "file",
+    "name": "src/argmin.js",
+    "content": "\n\nexport function argmin ( compare, a, i, j ) {\n\n\tvar k, key, tmp;\n\n\tif ( i >= j ) {\n\t\treturn undefined;\n\t}\n\n\tk = i;\n\tkey = a[k];\n\n\tfor ( ++i ; i < j ; ++i ) {\n\n\t\ttmp = a[i];\n\n\t\tif ( compare( tmp, key ) < 0 ) {\n\t\t\tk = i;\n\t\t\tkey = tmp;\n\t\t}\n\n\t}\n\n\treturn k;\n}\n\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/js-array/src/argmin.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 53,
+    "kind": "function",
+    "name": "argmin",
+    "memberof": "src/argmin.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/argmin.js~argmin",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-array/src/argmin.js",
+    "importStyle": "{argmin}",
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "params": [
+      {
+        "name": "compare",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "a",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "i",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "j",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 54,
+    "kind": "file",
+    "name": "src/copy.js",
+    "content": "\n\nexport function copy ( a, ai, aj, b, bi ) {\n\n\tfor ( ; ai < aj ; ++ai, ++bi ) {\n\t\tb[bi] = a[ai];\n\t}\n\n}\n\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/js-array/src/copy.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 55,
+    "kind": "function",
+    "name": "copy",
+    "memberof": "src/copy.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/copy.js~copy",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-array/src/copy.js",
+    "importStyle": "{copy}",
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "params": [
+      {
+        "name": "a",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "ai",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "aj",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "b",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "bi",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 56,
+    "kind": "file",
+    "name": "src/each.js",
+    "content": "\nexport function each ( callback, array, left, right ) {\n\n\tfor ( ; left < right ; ++left ) {\n\t\tcallback( array[left], left, array );\n\t}\n\n}\n\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/js-array/src/each.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 57,
+    "kind": "function",
+    "name": "each",
+    "memberof": "src/each.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/each.js~each",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-array/src/each.js",
+    "importStyle": "{each}",
+    "description": null,
+    "lineNumber": 2,
+    "undocument": true,
+    "params": [
+      {
+        "name": "callback",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "array",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "left",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "right",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 58,
+    "kind": "file",
+    "name": "src/fill.js",
+    "content": "\n\nexport function fill ( a, i, j, v ) {\n\n\tfor ( ; i < j ; ++i ) {\n\t\ta[i] = v;\n\t}\n\n}\n\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/js-array/src/fill.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 59,
+    "kind": "function",
+    "name": "fill",
+    "memberof": "src/fill.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/fill.js~fill",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-array/src/fill.js",
+    "importStyle": "{fill}",
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "params": [
+      {
+        "name": "a",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "i",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "j",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "v",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 60,
+    "kind": "file",
+    "name": "src/fillfn.js",
+    "content": "\n\nexport function fillfn ( a , i , j , fn ) {\n\n\tfor ( ; i < j ; ++i ) a[i] = fn( ) ;\n\n}\n\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/js-array/src/fillfn.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 61,
+    "kind": "function",
+    "name": "fillfn",
+    "memberof": "src/fillfn.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/fillfn.js~fillfn",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-array/src/fillfn.js",
+    "importStyle": "{fillfn}",
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "params": [
+      {
+        "name": "a",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "i",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "j",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "fn",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 62,
+    "kind": "file",
+    "name": "src/get.js",
+    "content": "\nexport function get ( a , i ) {\n\treturn a[i] ;\n}\n\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/js-array/src/get.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 63,
+    "kind": "function",
+    "name": "get",
+    "memberof": "src/get.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/get.js~get",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-array/src/get.js",
+    "importStyle": "{get}",
+    "description": null,
+    "lineNumber": 2,
+    "undocument": true,
+    "params": [
+      {
+        "name": "a",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "i",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 64,
+    "kind": "file",
+    "name": "src/index.js",
+    "content": "export * from './alloc' ;\nexport * from './argmax' ;\nexport * from './argmin' ;\nexport * from './copy' ;\nexport * from './each' ;\nexport * from './fill' ;\nexport * from './fillfn' ;\nexport * from './get' ;\nexport * from './iota' ;\nexport * from './map' ;\nexport * from './max' ;\nexport * from './min' ;\nexport * from './realloc' ;\nexport * from './reduce' ;\nexport * from './repr' ;\nexport * from './reverse' ;\nexport * from './rotate' ;\nexport * from './set' ;\nexport * from './slice' ;\nexport * from './sort' ;\nexport * from './splice' ;\nexport * from './swap' ;\nexport * from './swapranges' ;\nexport * from './utils' ;\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/js-array/src/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 65,
+    "kind": "file",
+    "name": "src/iota.js",
+    "content": "\n\nexport function iota ( a, i, j, v ) {\n\n\tfor ( ; i < j ; ++i, ++v ){\n\t\ta[i] = v;\n\t}\n\n}\n\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/js-array/src/iota.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 66,
+    "kind": "function",
+    "name": "iota",
+    "memberof": "src/iota.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/iota.js~iota",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-array/src/iota.js",
+    "importStyle": "{iota}",
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "params": [
+      {
+        "name": "a",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "i",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "j",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "v",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 67,
+    "kind": "file",
+    "name": "src/map/chain.js",
+    "content": "\nexport function chain ( iterables, out ) {\n\n\tvar i, j, n, len, it;\n\n\tlen = iterables.length;\n\n\n\tif ( len === 0 ) {\n\t\treturn out;\n\t}\n\n\n\tfor ( i = 0 ; i < len ; ++i ) {\n\n\t\tit = iterables[i];\n\t\tn = it.length;\n\n\t\tfor ( j = 0 ; j < n ; ++j ) {\n\t\t\tout.push( it[j] );\n\t\t}\n\t}\n\n\treturn out;\n\n}\n\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/js-array/src/map/chain.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 68,
+    "kind": "function",
+    "name": "chain",
+    "memberof": "src/map/chain.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/map/chain.js~chain",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-array/src/map/chain.js",
+    "importStyle": "{chain}",
+    "description": null,
+    "lineNumber": 2,
+    "undocument": true,
+    "params": [
+      {
+        "name": "iterables",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "out",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 69,
+    "kind": "file",
+    "name": "src/map/combinations.js",
+    "content": "import { range , pick } from '..' ;\n\nexport function combinations ( iterable, repeat, out ) {\n\n\t// combinations('ABCD', 2) --> AB AC AD BC BD CD\n\t// combinations(range(4), 3) --> 012 013 023 123\n\n\tvar pool, len, indices, i, j;\n\n\tpool = iterable;\n\tlen = pool.length;\n\n\tif ( repeat > len ) {\n\t\treturn out;\n\t}\n\n\tindices = range( 0, repeat, 1, [] );\n\n\tout.push( pick( pool, indices, [] ) );\n\n\tif ( repeat === 0 || len === 0 ) {\n\t\treturn out;\n\t}\n\n\tfor ( ; ; ) {\n\n\t\tfor ( i = repeat - 1 ; i >= 0 ; --i ) {\n\t\t\tif ( indices[i] !== i + len - repeat ) {\n\t\t\t\tbreak;\n\t\t\t}\n\t\t}\n\n\t\tif ( i < 0 ) {\n\t\t\treturn out;\n\t\t}\n\n\t\t++indices[i];\n\n\t\tfor ( j = i + 1 ; j < repeat ; ++j ) {\n\t\t\tindices[j] = indices[j - 1] + 1;\n\t\t}\n\n\t\tout.push( pick( pool, indices, [] ) );\n\n\t}\n\n}\n\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/js-array/src/map/combinations.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 70,
+    "kind": "function",
+    "name": "combinations",
+    "memberof": "src/map/combinations.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/map/combinations.js~combinations",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-array/src/map/combinations.js",
+    "importStyle": "{combinations}",
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "params": [
+      {
+        "name": "iterable",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "repeat",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "out",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 71,
+    "kind": "file",
+    "name": "src/map/combinationswithrepetition.js",
+    "content": "import { repeat , pick } from '..' ;\n\nexport function combinationswithrepetition ( iterable, r, out ) {\n\n\t// combinationswithrepetition('ABC', 2) --> AA AB AC BB BC CC\n\n\tvar pool, len, indices, i, next;\n\n\tpool = iterable;\n\tlen = pool.length;\n\n\tif ( len === 0 && r > 0) {\n\t\treturn out;\n\t}\n\n\tindices = repeat( 0, r, [] );\n\n\tout.push( pick( pool, indices, [] ) );\n\n\tfor ( ; ; ) {\n\n\t\tfor ( i = r - 1 ; i >= 0 ; --i ) {\n\t\t\tif ( indices[i] !== len - 1 ) {\n\t\t\t\tnext = indices[i] + 1;\n\t\t\t\tbreak;\n\t\t\t}\n\t\t}\n\n\t\tif ( i < 0 ) {\n\t\t\treturn out;\n\t\t}\n\n\t\tfor ( ; i < r ; ++i ) {\n\t\t\tindices[i] = next;\n\t\t}\n\n\t\tout.push( pick( pool, indices, [] ) );\n\t}\n\n}\n\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/js-array/src/map/combinationswithrepetition.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 72,
+    "kind": "function",
+    "name": "combinationswithrepetition",
+    "memberof": "src/map/combinationswithrepetition.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/map/combinationswithrepetition.js~combinationswithrepetition",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-array/src/map/combinationswithrepetition.js",
+    "importStyle": "{combinationswithrepetition}",
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "params": [
+      {
+        "name": "iterable",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "r",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "out",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 73,
+    "kind": "file",
+    "name": "src/map/compress.js",
+    "content": "\n\nexport function compress ( iterable, selector, out ) {\n\n\tvar i, j;\n\n\tj = Math.min( iterable.length, selector.length );\n\n\tfor ( i = 0 ; i < j ; ++i ) {\n\t\tif ( selector[i] ) {\n\t\t\tout.push( iterable[i] );\n\t\t}\n\t}\n\n\treturn out;\n\n}\n\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/js-array/src/map/compress.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 74,
+    "kind": "function",
+    "name": "compress",
+    "memberof": "src/map/compress.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/map/compress.js~compress",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-array/src/map/compress.js",
+    "importStyle": "{compress}",
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "params": [
+      {
+        "name": "iterable",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "selector",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "out",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 75,
+    "kind": "file",
+    "name": "src/map/dropwhile.js",
+    "content": "\nexport function dropwhile ( predicate, iterable, out ) {\n\n\tvar i, n, e;\n\n\tn = iterable.length;\n\n\tif ( n === 0 ) {\n\t\treturn out;\n\t}\n\n\ti = 0;\n\te = iterable[i];\n\n\twhile ( predicate( e ) ) {\n\t\t++i;\n\n\t\tif ( i === n ) {\n\t\t\treturn out;\n\t\t}\n\n\t\te = iterable[i];\n\t}\n\n\tout.push( e );\n\n\tfor ( ++i ; i < n ; ++i ) {\n\t\tout.push( iterable[i] );\n\t}\n\n\treturn out;\n\n}\n\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/js-array/src/map/dropwhile.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 76,
+    "kind": "function",
+    "name": "dropwhile",
+    "memberof": "src/map/dropwhile.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/map/dropwhile.js~dropwhile",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-array/src/map/dropwhile.js",
+    "importStyle": "{dropwhile}",
+    "description": null,
+    "lineNumber": 2,
+    "undocument": true,
+    "params": [
+      {
+        "name": "predicate",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "iterable",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "out",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 77,
+    "kind": "file",
+    "name": "src/map/enumerate.js",
+    "content": "import { zip , range } from '..' ;\n\nexport function enumerate ( iterable, out ) {\n\n\tzip( [range( 0, iterable.length, 1, [] ), iterable], out );\n\n\treturn out;\n}\n\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/js-array/src/map/enumerate.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 78,
+    "kind": "function",
+    "name": "enumerate",
+    "memberof": "src/map/enumerate.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/map/enumerate.js~enumerate",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-array/src/map/enumerate.js",
+    "importStyle": "{enumerate}",
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "params": [
+      {
+        "name": "iterable",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "out",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 79,
+    "kind": "file",
+    "name": "src/map/filter.js",
+    "content": "\nexport function filter ( predicate, iterable, out ) {\n\n\tconst len = iterable.length;\n\n\tfor ( let i = 0 ; i < len ; ++i ) {\n\n\t\tconst item = iterable[i];\n\n\t\tif ( predicate( item ) ) {\n\t\t\tout.push( item );\n\t\t}\n\n\t}\n\n\treturn out;\n\n}\n\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/js-array/src/map/filter.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 80,
+    "kind": "function",
+    "name": "filter",
+    "memberof": "src/map/filter.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/map/filter.js~filter",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-array/src/map/filter.js",
+    "importStyle": "{filter}",
+    "description": null,
+    "lineNumber": 2,
+    "undocument": true,
+    "params": [
+      {
+        "name": "predicate",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "iterable",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "out",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 81,
+    "kind": "file",
+    "name": "src/map/filterfalse.js",
+    "content": "\nexport function filterfalse ( predicate, iterable, out ) {\n\n\tconst len = iterable.length;\n\n\tfor ( let i = 0 ; i < len ; ++i ) {\n\n\t\tconst item = iterable[i];\n\n\t\tif ( ! predicate( item ) ) {\n\t\t\tout.push( item )\n\t\t}\n\n\t}\n\n\treturn out;\n\n}\n\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/js-array/src/map/filterfalse.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 82,
+    "kind": "function",
+    "name": "filterfalse",
+    "memberof": "src/map/filterfalse.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/map/filterfalse.js~filterfalse",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-array/src/map/filterfalse.js",
+    "importStyle": "{filterfalse}",
+    "description": null,
+    "lineNumber": 2,
+    "undocument": true,
+    "params": [
+      {
+        "name": "predicate",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "iterable",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "out",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 83,
+    "kind": "file",
+    "name": "src/map/group.js",
+    "content": "\nexport function group ( key, iterable, out ) {\n\n\tvar i, len, curr, next, tuple, item, items;\n\n\tlen = iterable.length;\n\n\tif ( len === 0 ) {\n\t\treturn out;\n\t}\n\n\ti = 0;\n\titem = iterable[i];\n\tnext = key( item );\n\n\tdo {\n\t\tcurr = next;\n\t\titems = [item];\n\t\ttuple = [curr, items];\n\n\t\t++i;\n\n\t\twhile ( i < len ) {\n\n\t\t\titem = iterable[i];\n\t\t\tnext = key( item );\n\n\t\t\tif ( next !== curr ) {\n\t\t\t\tbreak;\n\t\t\t}\n\n\t\t\titems.push( item );\n\t\t\t++i;\n\t\t}\n\n\t\tout.push( tuple );\n\n\t} while ( i < len );\n\n\n\treturn out;\n\n}\n\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/js-array/src/map/group.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 84,
+    "kind": "function",
+    "name": "group",
+    "memberof": "src/map/group.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/map/group.js~group",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-array/src/map/group.js",
+    "importStyle": "{group}",
+    "description": null,
+    "lineNumber": 2,
+    "undocument": true,
+    "params": [
+      {
+        "name": "key",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "iterable",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "out",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 85,
+    "kind": "file",
+    "name": "src/map/index.js",
+    "content": "export * from './chain' ;\nexport * from './combinations' ;\nexport * from './combinationswithrepetition' ;\nexport * from './compress' ;\nexport * from './dropwhile' ;\nexport * from './enumerate' ;\nexport * from './filter' ;\nexport * from './filterfalse' ;\nexport * from './group' ;\nexport * from './islice' ;\nexport * from './map' ;\nexport * from './permutations' ;\nexport * from './product' ;\nexport * from './repeat' ;\nexport * from './reversed' ;\nexport * from './sorted' ;\nexport * from './starmap' ;\nexport * from './takewhile' ;\nexport * from './zip' ;\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/js-array/src/map/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 86,
+    "kind": "file",
+    "name": "src/map/islice.js",
+    "content": "import { pick , range } from '..' ;\n\nexport function islice ( iterable, start, stop, step, out ) {\n\n\treturn pick( iterable, range( start, stop, step, [] ), out );\n\n}\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/js-array/src/map/islice.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 87,
+    "kind": "function",
+    "name": "islice",
+    "memberof": "src/map/islice.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/map/islice.js~islice",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-array/src/map/islice.js",
+    "importStyle": "{islice}",
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "params": [
+      {
+        "name": "iterable",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "start",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "stop",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "step",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "out",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 88,
+    "kind": "file",
+    "name": "src/map/map.js",
+    "content": "\n/**\n *\n * Maps a callable object over an array.\n *\n * /!\\ currently only supports a (function, array) tuple as argument\n *\n */\n\nexport function map ( callable, iterable, out ) {\n\n\tvar i, len;\n\n\tlen = iterable.length;\n\n\tfor ( i = 0 ; i < len ; ++i ) {\n\t\tout.push( callable( iterable[i] ) );\n\t}\n\n\treturn out;\n\n}\n\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/js-array/src/map/map.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 89,
+    "kind": "function",
+    "name": "map",
+    "memberof": "src/map/map.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/map/map.js~map",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-array/src/map/map.js",
+    "importStyle": "{map}",
+    "description": "\nMaps a callable object over an array.\n\n/!\\ currently only supports a (function, array) tuple as argument",
+    "lineNumber": 10,
+    "params": [
+      {
+        "name": "callable",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "iterable",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "out",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 90,
+    "kind": "file",
+    "name": "src/map/permutations.js",
+    "content": "import { range , pick } from '..' ;\n\nexport function permutations( iterable, repeat, out ) {\n\n\t// permutations('ABCD', 2) --> AB AC AD BA BC BD CA CB CD DA DB DC\n\t// permutations(range(3), 3) --> 012 021 102 120 201 210\n\n\tvar pool, i, j, w, len, indices, cycles, x, tmp;\n\n\tpool = iterable;\n\tlen = pool.length;\n\n\n\tif ( repeat > len ) {\n\t\treturn out;\n\t}\n\n\n\tindices = range( 0, len, 1, [] );\n\tcycles = range( len, len - repeat, -1, [] );\n\n\tout.push( pick( pool, indices.slice( 0, repeat ), [] ) );\n\n\tif ( repeat === 0 || len === 0 ) {\n\t\treturn out;\n\t}\n\n\tfor ( ; ; ) {\n\n\t\ti = repeat;\n\n\t\twhile ( i-- ) {\n\n\t\t\t--cycles[i];\n\n\t\t\tif ( cycles[i] === 0 ) {\n\n\t\t\t\tx = indices[i];\n\n\t\t\t\tindices.splice(i, 1);\n\t\t\t\tindices.push(x);\n\n\t\t\t\tcycles[i] = len - i;\n\t\t\t}\n\n\t\t\telse {\n\n\t\t\t\tj = cycles[i];\n\n\t\t\t\ttmp = indices[i];\n\t\t\t\tindices[i] = indices[len - j];\n\t\t\t\tindices[len - j] = tmp;\n\n\t\t\t\tout.push( pick( pool, indices.slice( 0, repeat ), [] ) );\n\t\t\t\tbreak;\n\t\t\t}\n\n\t\t}\n\n\t\tif ( i === -1 ) {\n\t\t\treturn out;\n\t\t}\n\n\t}\n\n}\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/js-array/src/map/permutations.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 91,
+    "kind": "function",
+    "name": "permutations",
+    "memberof": "src/map/permutations.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/map/permutations.js~permutations",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-array/src/map/permutations.js",
+    "importStyle": "{permutations}",
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "params": [
+      {
+        "name": "iterable",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "repeat",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "out",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 92,
+    "kind": "file",
+    "name": "src/map/product.js",
+    "content": "\n\nexport function product ( iterables, repeat, out ) {\n\n\t// product(['ABCD', 'xy'], 1) --> Ax Ay Bx By Cx Cy Dx Dy\n\t// product([range(0, 2, 1)], 3) --> 000 001 010 011 100 101 110 111\n\n\tvar a, b, i, j, k, m, n, iterable, c, len;\n\n\ta = [[]];\n\n\t// repeat k times\n\n\tfor ( k = 0 ; k < repeat ; ++k ) {\n\n\t\t// for each iterable\n\t\t// concatenate existing combinaisons\n\t\t// with every element of this iterable\n\n\t\tfor ( i = 0, m = iterables.length ; i < m ; ++i ) {\n\n\t\t\t// b will contain the newly created combinaisons\n\n\t\t\tb = [];\n\n\t\t\t// cache the current iterable\n\n\t\t\titerable = iterables[i];\n\n\n\t\t\t// for each existing combinaison\n\n\t\t\tfor ( j = 0, n = a.length ; j < n ; ++j ) {\n\n\t\t\t\t// for each element of the current iterable\n\n\t\t\t\tfor ( c = 0, len = iterable.length ; c < len ; ++c ) {\n\n\t\t\t\t\t// concatenate existing combinaison with\n\t\t\t\t\t// current element of the iterable\n\n\t\t\t\t\tb.push( a[j].concat( iterable[c] ) );\n\n\t\t\t\t}\n\n\t\t\t}\n\n\t\t\t// update a for next round\n\n\t\t\ta = b;\n\t\t}\n\n\t}\n\n\t// report output\n\n\tfor ( j = 0, n = a.length ; j < n ; ++j ) {\n\t\tout.push(a[j]);\n\t}\n\n\treturn out;\n}\n\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/js-array/src/map/product.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 93,
+    "kind": "function",
+    "name": "product",
+    "memberof": "src/map/product.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/map/product.js~product",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-array/src/map/product.js",
+    "importStyle": "{product}",
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "params": [
+      {
+        "name": "iterables",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "repeat",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "out",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 94,
+    "kind": "file",
+    "name": "src/map/repeat.js",
+    "content": "\n\nexport function repeat ( element, times, out ) {\n\n\tvar i;\n\n\tfor ( i = 0 ; i < times ; ++i ) {\n\t\tout.push( element );\n\t}\n\n\treturn out;\n\n}\n\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/js-array/src/map/repeat.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 95,
+    "kind": "function",
+    "name": "repeat",
+    "memberof": "src/map/repeat.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/map/repeat.js~repeat",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-array/src/map/repeat.js",
+    "importStyle": "{repeat}",
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "params": [
+      {
+        "name": "element",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "times",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "out",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 96,
+    "kind": "file",
+    "name": "src/map/reversed.js",
+    "content": "\nexport function reversed ( iterable, out ) {\n\n\tvar i;\n\n\ti = iterable.length;\n\n\twhile ( i-- ) {\n\t\tout.push( iterable[i] );\n\t}\n\n\treturn out;\n}\n\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/js-array/src/map/reversed.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 97,
+    "kind": "function",
+    "name": "reversed",
+    "memberof": "src/map/reversed.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/map/reversed.js~reversed",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-array/src/map/reversed.js",
+    "importStyle": "{reversed}",
+    "description": null,
+    "lineNumber": 2,
+    "undocument": true,
+    "params": [
+      {
+        "name": "iterable",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "out",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 98,
+    "kind": "file",
+    "name": "src/map/sorted.js",
+    "content": "\n\nexport function sorted ( f, iterable ) {\n\n\treturn iterable.slice( 0 ).sort( f );\n\n}\n\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/js-array/src/map/sorted.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 99,
+    "kind": "function",
+    "name": "sorted",
+    "memberof": "src/map/sorted.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/map/sorted.js~sorted",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-array/src/map/sorted.js",
+    "importStyle": "{sorted}",
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "params": [
+      {
+        "name": "f",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "iterable",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 100,
+    "kind": "file",
+    "name": "src/map/starmap.js",
+    "content": "\n/**\n *\n * Maps a callable object over an array.\n *\n * /!\\ currently only supports a (function, array) tuple as argument\n *\n */\n\nexport function starmap ( callable, iterable, out ) {\n\n\tvar i, len;\n\n\tlen = iterable.length;\n\n\tfor ( i = 0 ; i < len ; ++i ) {\n\t\tout.push( callable.apply( null, iterable[i] ) );\n\t}\n\n\treturn out;\n\n}\n\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/js-array/src/map/starmap.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 101,
+    "kind": "function",
+    "name": "starmap",
+    "memberof": "src/map/starmap.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/map/starmap.js~starmap",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-array/src/map/starmap.js",
+    "importStyle": "{starmap}",
+    "description": "\nMaps a callable object over an array.\n\n/!\\ currently only supports a (function, array) tuple as argument",
+    "lineNumber": 10,
+    "params": [
+      {
+        "name": "callable",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "iterable",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "out",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 102,
+    "kind": "file",
+    "name": "src/map/takewhile.js",
+    "content": "\nexport function takewhile ( predicate, iterable, out ) {\n\n\tvar i, n, e;\n\n\tn = iterable.length;\n\n\tif ( n === 0 ) {\n\t\treturn out;\n\t}\n\n\ti = 0;\n\te = iterable[i];\n\n\twhile ( predicate( e ) ) {\n\n\t\tout.push( e );\n\n\t\t++i;\n\n\t\tif ( i === n ) {\n\t\t\treturn out;\n\t\t}\n\n\t\te = iterable[i];\n\t}\n\n\treturn out;\n\n}\n\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/js-array/src/map/takewhile.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 103,
+    "kind": "function",
+    "name": "takewhile",
+    "memberof": "src/map/takewhile.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/map/takewhile.js~takewhile",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-array/src/map/takewhile.js",
+    "importStyle": "{takewhile}",
+    "description": null,
+    "lineNumber": 2,
+    "undocument": true,
+    "params": [
+      {
+        "name": "predicate",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "iterable",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "out",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 104,
+    "kind": "file",
+    "name": "src/map/zip.js",
+    "content": "\n\nexport function zip ( iterables, out ) {\n\n\tvar i, j, n, len, tmp, tuple;\n\n\tlen = iterables.length;\n\n\n\tif ( len === 0 ) {\n\t\treturn out;\n\t}\n\n\n\tn = iterables[0].length;\n\n\tfor ( i = 0 ; i < len ; ++i ) {\n\n\t\ttmp = iterables[i].length;\n\n\t\tif ( tmp < n ) {\n\t\t\tn = tmp;\n\t\t}\n\n\t}\n\n\tfor ( j = 0 ; j < n ; ++j ) {\n\n\t\ttuple = []\n\n\t\tfor ( i = 0 ; i < len ; ++i ) {\n\t\t\ttuple.push( iterables[i][j] );\n\t\t}\n\n\t\tout.push( tuple );\n\t}\n\n\treturn out;\n}\n\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/js-array/src/map/zip.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 105,
+    "kind": "function",
+    "name": "zip",
+    "memberof": "src/map/zip.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/map/zip.js~zip",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-array/src/map/zip.js",
+    "importStyle": "{zip}",
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "params": [
+      {
+        "name": "iterables",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "out",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 106,
+    "kind": "file",
+    "name": "src/max.js",
+    "content": "\n\nexport function max ( compare, a, i, j ) {\n\n\tvar key, tmp;\n\n\tif ( i >= j ) {\n\t\treturn undefined;\n\t}\n\n\tkey = a[i];\n\n\tfor ( ++i ; i < j ; ++i ) {\n\n\t\ttmp = a[i];\n\n\t\tif ( compare( tmp, key ) > 0 ) {\n\t\t\tkey = tmp;\n\t\t}\n\n\t}\n\n\treturn key;\n}\n\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/js-array/src/max.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 107,
+    "kind": "function",
+    "name": "max",
+    "memberof": "src/max.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/max.js~max",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-array/src/max.js",
+    "importStyle": "{max}",
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "params": [
+      {
+        "name": "compare",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "a",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "i",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "j",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 108,
+    "kind": "file",
+    "name": "src/min.js",
+    "content": "\n\nexport function min ( compare, a, i, j ) {\n\n\tvar key, tmp;\n\n\tif ( i >= j ) {\n\t\treturn undefined;\n\t}\n\n\tkey = a[i];\n\n\tfor ( ++i ; i < j ; ++i ) {\n\n\t\ttmp = a[i];\n\n\t\tif ( compare( tmp, key ) < 0 ) {\n\t\t\tkey = tmp;\n\t\t}\n\n\t}\n\n\treturn key;\n}\n\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/js-array/src/min.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 109,
+    "kind": "function",
+    "name": "min",
+    "memberof": "src/min.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/min.js~min",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-array/src/min.js",
+    "importStyle": "{min}",
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "params": [
+      {
+        "name": "compare",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "a",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "i",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "j",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 110,
+    "kind": "file",
+    "name": "src/realloc.js",
+    "content": "import { alloc , copy } from '.' ;\n\nexport function realloc ( data , len ) {\n\n\tconst pt = alloc( len ) ;\n\n\tcopy( data , 0 , Math.min( data.length , len ) , pt , 0 ) ;\n\n\treturn pt ;\n\n}\n\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/js-array/src/realloc.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 111,
+    "kind": "function",
+    "name": "realloc",
+    "memberof": "src/realloc.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/realloc.js~realloc",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-array/src/realloc.js",
+    "importStyle": "{realloc}",
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "params": [
+      {
+        "name": "data",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "len",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 112,
+    "kind": "file",
+    "name": "src/reduce/all.js",
+    "content": "\nexport function all ( iterable ) {\n\n\tvar i, len;\n\n\tlen = iterable.length;\n\n\tfor ( i = 0 ; i < len ; ++i ) {\n\n\t\tif ( ! iterable[i] ) {\n\t\t\treturn false;\n\t\t}\n\n\t}\n\n\treturn true;\n}\n\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/js-array/src/reduce/all.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 113,
+    "kind": "function",
+    "name": "all",
+    "memberof": "src/reduce/all.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/reduce/all.js~all",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-array/src/reduce/all.js",
+    "importStyle": "{all}",
+    "description": null,
+    "lineNumber": 2,
+    "undocument": true,
+    "params": [
+      {
+        "name": "iterable",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "boolean"
+      ]
+    }
+  },
+  {
+    "__docId__": 114,
+    "kind": "file",
+    "name": "src/reduce/any.js",
+    "content": "\nexport function any ( iterable ) {\n\n\tvar i, len;\n\n\tlen = iterable.length;\n\n\tfor ( i = 0 ; i < len ; ++i ) {\n\n\t\tif ( iterable[i] ) {\n\t\t\treturn true;\n\t\t}\n\n\t}\n\n\treturn false;\n}\n\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/js-array/src/reduce/any.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 115,
+    "kind": "function",
+    "name": "any",
+    "memberof": "src/reduce/any.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/reduce/any.js~any",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-array/src/reduce/any.js",
+    "importStyle": "{any}",
+    "description": null,
+    "lineNumber": 2,
+    "undocument": true,
+    "params": [
+      {
+        "name": "iterable",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "boolean"
+      ]
+    }
+  },
+  {
+    "__docId__": 116,
+    "kind": "file",
+    "name": "src/reduce/index.js",
+    "content": "export * from './all' ;\nexport * from './any' ;\nexport * from './reduce' ;\nexport * from './sum' ;\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/js-array/src/reduce/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 117,
+    "kind": "file",
+    "name": "src/reduce/reduce.js",
+    "content": "\n\n/**\n * Applies the accumulator function iteratively on the\n * last return value of the accumulator and the next\n * value in the iterable. The initial value is the initializer\n * parameter.\n *\n * /!\\ currently only works with an\n *     accumulator that is a function object\n *     and an array iterable\n */\n\nexport function reduce ( accumulator, iterable, initializer ) {\n\n\tvar i, len;\n\n\ti = 0;\n\n\tlen = iterable.length;\n\n\tif ( len === 0 ) {\n\t\treturn initializer;\n\t}\n\n\tfor ( ; i < len ; ++i ) {\n\t\tinitializer = accumulator( initializer, iterable[i] );\n\t}\n\n\treturn initializer;\n\n}\n\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/js-array/src/reduce/reduce.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 118,
+    "kind": "function",
+    "name": "reduce",
+    "memberof": "src/reduce/reduce.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/reduce/reduce.js~reduce",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-array/src/reduce/reduce.js",
+    "importStyle": "{reduce}",
+    "description": "Applies the accumulator function iteratively on the\nlast return value of the accumulator and the next\nvalue in the iterable. The initial value is the initializer\nparameter.\n\n/!\\ currently only works with an\n    accumulator that is a function object\n    and an array iterable",
+    "lineNumber": 14,
+    "params": [
+      {
+        "name": "accumulator",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "iterable",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "initializer",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 119,
+    "kind": "file",
+    "name": "src/reduce/sum.js",
+    "content": "\n\nexport function sum ( iterable ) {\n\n\tvar i, len, total;\n\n\ttotal = 0;\n\n\tlen = iterable.length;\n\n\tfor ( i = 0 ; i < len ; ++i ) {\n\t\ttotal += iterable[i];\n\t}\n\n\treturn total;\n\n}\n\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/js-array/src/reduce/sum.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 120,
+    "kind": "function",
+    "name": "sum",
+    "memberof": "src/reduce/sum.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/reduce/sum.js~sum",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-array/src/reduce/sum.js",
+    "importStyle": "{sum}",
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "params": [
+      {
+        "name": "iterable",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 121,
+    "kind": "file",
+    "name": "src/repr.js",
+    "content": "import { slice } from '.' ;\n\nexport function repr ( array, left, right ) {\n\treturn JSON.stringify( slice( array, left, right ) );\n}\n\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/js-array/src/repr.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 122,
+    "kind": "function",
+    "name": "repr",
+    "memberof": "src/repr.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/repr.js~repr",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-array/src/repr.js",
+    "importStyle": "{repr}",
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "params": [
+      {
+        "name": "array",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "left",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "right",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 123,
+    "kind": "file",
+    "name": "src/reverse.js",
+    "content": "import { swap } from '.' ;\n\nexport function reverse ( a , i , j ) {\n\n\twhile ( i < j ) swap( a , i++ , --j ) ;\n\n}\n\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/js-array/src/reverse.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 124,
+    "kind": "function",
+    "name": "reverse",
+    "memberof": "src/reverse.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/reverse.js~reverse",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-array/src/reverse.js",
+    "importStyle": "{reverse}",
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "params": [
+      {
+        "name": "a",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "i",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "j",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 125,
+    "kind": "file",
+    "name": "src/rotate.js",
+    "content": "import { reverse } from '.' ;\n\n/**\n * In place O(n).\n *\n * Rotate right version.\n * See http://prakhar.me/articles/the-string-rotation-problem/.\n */\n\nexport function rotate ( a , i , j , n ) {\n\n\treverse( a , i , j ) ;\n\treverse( a , i , i + n ) ;\n\treverse( a , i + n , j ) ;\n\n}\n\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/js-array/src/rotate.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 126,
+    "kind": "function",
+    "name": "rotate",
+    "memberof": "src/rotate.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/rotate.js~rotate",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-array/src/rotate.js",
+    "importStyle": "{rotate}",
+    "description": "In place O(n).\n\nRotate right version.\nSee http://prakhar.me/articles/the-string-rotation-problem/.",
+    "lineNumber": 10,
+    "params": [
+      {
+        "name": "a",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "i",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "j",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "n",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 127,
+    "kind": "file",
+    "name": "src/set.js",
+    "content": "\nexport function set ( a , i , v ) {\n\ta[i] = v ;\n}\n\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/js-array/src/set.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 128,
+    "kind": "function",
+    "name": "set",
+    "memberof": "src/set.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/set.js~set",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-array/src/set.js",
+    "importStyle": "{set}",
+    "description": null,
+    "lineNumber": 2,
+    "undocument": true,
+    "params": [
+      {
+        "name": "a",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "i",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "v",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 129,
+    "kind": "file",
+    "name": "src/slice.js",
+    "content": "\nexport function slice ( array, left, right ) {\n\treturn Array.prototype.slice.call( array, left, right );\n}\n\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/js-array/src/slice.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 130,
+    "kind": "function",
+    "name": "slice",
+    "memberof": "src/slice.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/slice.js~slice",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-array/src/slice.js",
+    "importStyle": "{slice}",
+    "description": null,
+    "lineNumber": 2,
+    "undocument": true,
+    "params": [
+      {
+        "name": "array",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "left",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "right",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 131,
+    "kind": "file",
+    "name": "src/sort.js",
+    "content": "\nexport function sort ( f, array ) {\n\treturn Array.prototype.sort.call( array, f );\n}\n\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/js-array/src/sort.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 132,
+    "kind": "function",
+    "name": "sort",
+    "memberof": "src/sort.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/sort.js~sort",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-array/src/sort.js",
+    "importStyle": "{sort}",
+    "description": null,
+    "lineNumber": 2,
+    "undocument": true,
+    "params": [
+      {
+        "name": "f",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "array",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 133,
+    "kind": "file",
+    "name": "src/splice.js",
+    "content": "import { slice } from '.' ;\n\nexport function splice ( a, ai, aj, b, bi, bj ) {\n\n\tif ( ai === undefined ) {\n\t\tai = 0;\n\t}\n\n\telse if ( ai < 0 ) {\n\t\tai += a.length;\n\t}\n\n\tif ( aj === undefined ) {\n\t\taj = ai;\n\t}\n\n\telse if ( aj < 0 ) {\n\t\taj += a.length;\n\t}\n\n\treturn Array.prototype.splice.apply(\n\t\ta,\n\t\t[ai, aj - ai].concat( slice( b, bi, bj ) )\n\t);\n}\n\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/js-array/src/splice.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 134,
+    "kind": "function",
+    "name": "splice",
+    "memberof": "src/splice.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/splice.js~splice",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-array/src/splice.js",
+    "importStyle": "{splice}",
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "params": [
+      {
+        "name": "a",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "ai",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "aj",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "b",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "bi",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "bj",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 135,
+    "kind": "file",
+    "name": "src/swap.js",
+    "content": "\nexport function swap ( a , i , j ) {\n\n\tvar tmp ;\n\n\ttmp  = a[i] ;\n\ta[i] = a[j] ;\n\ta[j] = tmp ;\n\n}\n\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/js-array/src/swap.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 136,
+    "kind": "function",
+    "name": "swap",
+    "memberof": "src/swap.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/swap.js~swap",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-array/src/swap.js",
+    "importStyle": "{swap}",
+    "description": null,
+    "lineNumber": 2,
+    "undocument": true,
+    "params": [
+      {
+        "name": "a",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "i",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "j",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 137,
+    "kind": "file",
+    "name": "src/swapranges.js",
+    "content": "\n\nexport function swapranges ( a , ai , aj , b , bi ) {\n\n\tvar tmp ;\n\n\tfor ( ; ai < aj ; ++ai , ++bi ) {\n\n\t\ttmp   = a[ai] ;\n\t\ta[ai] = b[bi] ;\n\t\tb[bi] = tmp ;\n\n\t}\n\n}\n\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/js-array/src/swapranges.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 138,
+    "kind": "function",
+    "name": "swapranges",
+    "memberof": "src/swapranges.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/swapranges.js~swapranges",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-array/src/swapranges.js",
+    "importStyle": "{swapranges}",
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "params": [
+      {
+        "name": "a",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "ai",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "aj",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "b",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "bi",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 139,
+    "kind": "file",
+    "name": "src/utils/index.js",
+    "content": "export * from './pick' ;\nexport * from './range' ;\nexport * from './tee' ;\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/js-array/src/utils/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 140,
+    "kind": "file",
+    "name": "src/utils/pick.js",
+    "content": "\nexport function pick( array, indices, out ) {\n\n\tvar i, k, len;\n\n\tlen = indices.length;\n\n\tfor ( i = 0 ; i < len ; ++i ) {\n\t\tk = indices[i];\n\t\tout.push( array[k] );\n\t}\n\n\treturn out;\n}\n\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/js-array/src/utils/pick.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 141,
+    "kind": "function",
+    "name": "pick",
+    "memberof": "src/utils/pick.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/utils/pick.js~pick",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-array/src/utils/pick.js",
+    "importStyle": "{pick}",
+    "description": null,
+    "lineNumber": 2,
+    "undocument": true,
+    "params": [
+      {
+        "name": "array",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "indices",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "out",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 142,
+    "kind": "file",
+    "name": "src/utils/range.js",
+    "content": "\n\nexport function range ( start, stop, step, out ) {\n\n\tif ( step < 0 ) {\n\t\tfor ( ; start > stop ; start += step ) {\n\t\t\tout.push( start );\n\t\t}\n\t}\n\n\telse {\n\t\tfor ( ; start < stop ; start += step ) {\n\t\t\tout.push( start );\n\t\t}\n\t}\n\n\treturn out;\n\n}\n\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/js-array/src/utils/range.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 143,
+    "kind": "function",
+    "name": "range",
+    "memberof": "src/utils/range.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/utils/range.js~range",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-array/src/utils/range.js",
+    "importStyle": "{range}",
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "params": [
+      {
+        "name": "start",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "stop",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "step",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "out",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 144,
+    "kind": "file",
+    "name": "src/utils/tee.js",
+    "content": "\n\nexport function tee ( iterable, n, out ) {\n\n\tvar i, m, deque;\n\n\tm = iterable.length;\n\n\twhile ( n-- ) {\n\n\t\tdeque = [];\n\n\t\tfor ( i = 0 ; i < m ; ++i ) {\n\t\t\tdeque.push( iterable[i] );\n\t\t}\n\n\t\tout.push(deque);\n\n\t}\n\n\treturn out;\n\n}\n\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/js-array/src/utils/tee.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 145,
+    "kind": "function",
+    "name": "tee",
+    "memberof": "src/utils/tee.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/utils/tee.js~tee",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-array/src/utils/tee.js",
+    "importStyle": "{tee}",
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "params": [
+      {
+        "name": "iterable",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "n",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "out",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "kind": "index",
+    "content": ":nut_and_bolt: [@aureooms/js-array](https://aureooms.github.io/js-array)\n==\n\nArray manipulation library for JavaScript.\nSee [documentation](https://aureooms.github.io/js-array).\nParent is [@aureooms/js-library](https://github.com/aureooms/js-library).\n\n```js\nlet buffer = array.alloc( 10000 ) ;\n```\n\n[![License](https://img.shields.io/github/license/aureooms/js-array.svg)](https://raw.githubusercontent.com/aureooms/js-array/main/LICENSE)\n[![Version](https://img.shields.io/npm/v/@aureooms/js-array.svg)](https://www.npmjs.org/package/@aureooms/js-array)\n[![Build](https://img.shields.io/travis/aureooms/js-array/main.svg)](https://travis-ci.org/aureooms/js-array/branches)\n[![Dependencies](https://img.shields.io/david/aureooms/js-array.svg)](https://david-dm.org/aureooms/js-array)\n[![Dev dependencies](https://img.shields.io/david/dev/aureooms/js-array.svg)](https://david-dm.org/aureooms/js-array?type=dev)\n[![GitHub issues](https://img.shields.io/github/issues/aureooms/js-array.svg)](https://github.com/aureooms/js-array/issues)\n[![Downloads](https://img.shields.io/npm/dm/@aureooms/js-array.svg)](https://www.npmjs.org/package/@aureooms/js-array)\n\n[![Code issues](https://img.shields.io/codeclimate/issues/aureooms/js-array.svg)](https://codeclimate.com/github/aureooms/js-array/issues)\n[![Code maintainability](https://img.shields.io/codeclimate/maintainability/aureooms/js-array.svg)](https://codeclimate.com/github/aureooms/js-array/trends/churn)\n[![Code coverage (cov)](https://img.shields.io/codecov/c/gh/aureooms/js-array/main.svg)](https://codecov.io/gh/aureooms/js-array)\n[![Code technical debt](https://img.shields.io/codeclimate/tech-debt/aureooms/js-array.svg)](https://codeclimate.com/github/aureooms/js-array/trends/technical_debt)\n[![Documentation](https://aureooms.github.io/js-array//badge.svg)](https://aureooms.github.io/js-array//source.html)\n[![Package size](https://img.shields.io/bundlephobia/minzip/@aureooms/js-array)](https://bundlephobia.com/result?p=@aureooms/js-array)\n",
+    "longname": "/home/aureooms/dev/js/js-array/README.md",
+    "name": "./README.md",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "packageJSON",
+    "content": "{\n  \"name\": \"@aureooms/js-array\",\n  \"description\": \"array manipulation code bricks for JavaScript\",\n  \"version\": \"4.0.0\",\n  \"author\": \"Aurélien Ooms <aurelien.ooms@gmail.com>\",\n  \"ava\": {\n    \"require\": [\n      \"regenerator-runtime/runtime\",\n      \"@babel/register\"\n    ],\n    \"files\": [\n      \"test/src/**/*\"\n    ],\n    \"timeout\": \"1m\",\n    \"concurrency\": 8\n  },\n  \"babel\": {\n    \"presets\": [\n      \"@babel/preset-env\"\n    ],\n    \"env\": {\n      \"test\": {\n        \"presets\": [\n          \"babel-preset-power-assert\"\n        ],\n        \"plugins\": [\n          [\n            \"transform-remove-console\",\n            {\n              \"exclude\": [\n                \"log\",\n                \"error\",\n                \"warn\"\n              ]\n            }\n          ]\n        ],\n        \"sourceMaps\": \"inline\"\n      },\n      \"development\": {\n        \"presets\": [\n          \"babel-preset-power-assert\"\n        ],\n        \"plugins\": [\n          [\n            \"transform-remove-console\",\n            {\n              \"exclude\": [\n                \"log\",\n                \"error\",\n                \"warn\"\n              ]\n            }\n          ]\n        ],\n        \"sourceMaps\": \"inline\"\n      },\n      \"production\": {\n        \"plugins\": [\n          \"babel-plugin-unassert\",\n          [\n            \"transform-remove-console\",\n            {\n              \"exclude\": [\n                \"log\",\n                \"error\",\n                \"warn\"\n              ]\n            }\n          ]\n        ],\n        \"sourceMaps\": \"inline\"\n      }\n    }\n  },\n  \"bugs\": {\n    \"url\": \"https://github.com/aureooms/js-array/issues\"\n  },\n  \"dependencies\": {},\n  \"devDependencies\": {\n    \"@aureooms/js-array\": \"^4.0.0\",\n    \"@aureooms/js-compare\": \"^1.4.8\",\n    \"@aureooms/js-functools\": \"^2.0.3\",\n    \"@aureooms/js-itertools\": \"^4.1.0\",\n    \"@aureooms/js-memory\": \"^4.0.0\",\n    \"@aureooms/js-operator\": \"^1.0.2\",\n    \"@aureooms/js-random\": \"^2.0.0\",\n    \"@babel/cli\": \"7.12.10\",\n    \"@babel/core\": \"7.12.10\",\n    \"@babel/preset-env\": \"7.12.10\",\n    \"@babel/register\": \"7.12.10\",\n    \"ava\": \"^3.14.0\",\n    \"babel-plugin-transform-remove-console\": \"6.9.4\",\n    \"babel-plugin-unassert\": \"3.0.1\",\n    \"babel-preset-power-assert\": \"3.0.0\",\n    \"coveralls\": \"^3.1.0\",\n    \"esdoc\": \"^1.1.0\",\n    \"esdoc-inject-script-plugin\": \"1.0.0\",\n    \"esdoc-inject-style-plugin\": \"1.0.0\",\n    \"esdoc-standard-plugin\": \"1.0.0\",\n    \"np\": \"7.0.0\",\n    \"nyc\": \"^15.1.0\",\n    \"power-assert\": \"1.6.1\"\n  },\n  \"files\": [\n    \"lib\"\n  ],\n  \"homepage\": \"http://aureooms.github.io/js-array/\",\n  \"keywords\": [\n    \"array\",\n    \"bricks\",\n    \"javascript\",\n    \"js\",\n    \"loop\",\n    \"vector\"\n  ],\n  \"license\": \"AGPL-3.0\",\n  \"main\": \"lib/index.js\",\n  \"repository\": {\n    \"type\": \"git\",\n    \"url\": \"https://github.com/aureooms/js-array.git\"\n  },\n  \"scripts\": {\n    \"build\": \"babel src -d lib\",\n    \"cover\": \"nyc --reporter=lcov npm test\",\n    \"dev\": \"npm run lint -- --fix && npm run cover -- -- -st --fail-fast\",\n    \"esdoc\": \"esdoc\",\n    \"lint\": \"true\",\n    \"prepare\": \"npm run build\",\n    \"release\": \"np\",\n    \"test\": \"ava\",\n    \"travis\": \"npm run lint && npm run cover\"\n  },\n  \"sideEffects\": false\n}\n",
+    "longname": "/home/aureooms/dev/js/js-array/package.json",
+    "name": "package.json",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "manualIndex",
+    "globalIndex": false,
+    "content": null,
+    "longname": "",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "manual",
+    "longname": "/home/aureooms/dev/js/js-array/doc/manual/overview.md",
+    "name": "./doc/manual/overview.md",
+    "content": "# Overview\n",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "manual",
+    "longname": "/home/aureooms/dev/js/js-array/doc/manual/installation.md",
+    "name": "./doc/manual/installation.md",
+    "content": "# Installation\nCan be managed using\n[jspm](http://jspm.io)\nor [npm](https://github.com/npm/npm).\n\n### jspm\n```terminal\njspm install npm:@aureooms/js-array\n```\n\n### npm\n```terminal\nnpm install @aureooms/js-array --save\n```\n",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "manual",
+    "longname": "/home/aureooms/dev/js/js-array/doc/manual/usage.md",
+    "name": "./doc/manual/usage.md",
+    "content": "# Usage\nThe code needs a ES2015+ polyfill to work, for example\n[regenerator-runtime/runtime](https://babeljs.io/docs/usage/polyfill).\n```js\nrequire( 'regenerator-runtime/runtime' ) ;\n// or\nimport 'regenerator-runtime/runtime' ;\n```\n\nThen\n```js\nconst array = require( '@aureooms/js-array' ) ;\n// or\nimport array from '@aureooms/js-array' ;\n```\n",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "manual",
+    "longname": "/home/aureooms/dev/js/js-array/doc/manual/example.md",
+    "name": "./doc/manual/example.md",
+    "content": "# Examples\n\n```js\nlet A = array.alloc( 10000 ) ;\n\narray.iota( A , 0 , 10000 , 1 ) ;\n\nlet B = array.alloc( 20000 ) ;\n\narray.copy( A , 0 , 10000 , B ,     0 ) ;\narray.copy( A , 0 , 10000 , B , 10000 ) ;\n\nB ; // [ 0 , 1 , ... , 9999 , 0 , 1 , ... , 9999 ]\n```\n",
+    "static": true,
+    "access": "public"
+  }
+]

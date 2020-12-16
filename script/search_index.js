@@ -1,614 +1,566 @@
 window.esdocSearchIndex = [
   [
-    "aureooms-js-array/src/reduce/all.js~all",
+    "@aureooms/js-array/src/reduce/all.js~all",
     "function/index.html#static-function-all",
-    "<span>all</span> <span class=\"search-result-import-path\">aureooms-js-array/src/reduce/all.js</span>",
+    "<span>all</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/reduce/all.js</span>",
     "function"
   ],
   [
-    "aureooms-js-array/src/alloc.js~alloc",
+    "@aureooms/js-array/src/alloc.js~alloc",
     "function/index.html#static-function-alloc",
-    "<span>alloc</span> <span class=\"search-result-import-path\">aureooms-js-array/src/alloc.js</span>",
+    "<span>alloc</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/alloc.js</span>",
     "function"
   ],
   [
-    "aureooms-js-array/src/reduce/any.js~any",
+    "@aureooms/js-array/src/reduce/any.js~any",
     "function/index.html#static-function-any",
-    "<span>any</span> <span class=\"search-result-import-path\">aureooms-js-array/src/reduce/any.js</span>",
+    "<span>any</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/reduce/any.js</span>",
     "function"
   ],
   [
-    "aureooms-js-array/src/argmax.js~argmax",
+    "@aureooms/js-array/src/argmax.js~argmax",
     "function/index.html#static-function-argmax",
-    "<span>argmax</span> <span class=\"search-result-import-path\">aureooms-js-array/src/argmax.js</span>",
+    "<span>argmax</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/argmax.js</span>",
     "function"
   ],
   [
-    "aureooms-js-array/src/argmin.js~argmin",
+    "@aureooms/js-array/src/argmin.js~argmin",
     "function/index.html#static-function-argmin",
-    "<span>argmin</span> <span class=\"search-result-import-path\">aureooms-js-array/src/argmin.js</span>",
+    "<span>argmin</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/argmin.js</span>",
     "function"
   ],
   [
-    "aureooms-js-array/src/map/chain.js~chain",
+    "@aureooms/js-array/src/map/chain.js~chain",
     "function/index.html#static-function-chain",
-    "<span>chain</span> <span class=\"search-result-import-path\">aureooms-js-array/src/map/chain.js</span>",
+    "<span>chain</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/map/chain.js</span>",
     "function"
   ],
   [
-    "aureooms-js-array/src/map/combinations.js~combinations",
+    "@aureooms/js-array/src/map/combinations.js~combinations",
     "function/index.html#static-function-combinations",
-    "<span>combinations</span> <span class=\"search-result-import-path\">aureooms-js-array/src/map/combinations.js</span>",
+    "<span>combinations</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/map/combinations.js</span>",
     "function"
   ],
   [
-    "aureooms-js-array/src/map/combinationswithrepetition.js~combinationswithrepetition",
+    "@aureooms/js-array/src/map/combinationswithrepetition.js~combinationswithrepetition",
     "function/index.html#static-function-combinationswithrepetition",
-    "<span>combinationswithrepetition</span> <span class=\"search-result-import-path\">aureooms-js-array/src/map/combinationswithrepetition.js</span>",
+    "<span>combinationswithrepetition</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/map/combinationswithrepetition.js</span>",
     "function"
   ],
   [
-    "aureooms-js-array/src/map/compress.js~compress",
+    "@aureooms/js-array/src/map/compress.js~compress",
     "function/index.html#static-function-compress",
-    "<span>compress</span> <span class=\"search-result-import-path\">aureooms-js-array/src/map/compress.js</span>",
+    "<span>compress</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/map/compress.js</span>",
     "function"
   ],
   [
-    "aureooms-js-array/src/copy.js~copy",
+    "@aureooms/js-array/src/copy.js~copy",
     "function/index.html#static-function-copy",
-    "<span>copy</span> <span class=\"search-result-import-path\">aureooms-js-array/src/copy.js</span>",
+    "<span>copy</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/copy.js</span>",
     "function"
   ],
   [
-    "aureooms-js-array/src/map/dropwhile.js~dropwhile",
+    "@aureooms/js-array/src/map/dropwhile.js~dropwhile",
     "function/index.html#static-function-dropwhile",
-    "<span>dropwhile</span> <span class=\"search-result-import-path\">aureooms-js-array/src/map/dropwhile.js</span>",
+    "<span>dropwhile</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/map/dropwhile.js</span>",
     "function"
   ],
   [
-    "aureooms-js-array/src/each.js~each",
+    "@aureooms/js-array/src/each.js~each",
     "function/index.html#static-function-each",
-    "<span>each</span> <span class=\"search-result-import-path\">aureooms-js-array/src/each.js</span>",
+    "<span>each</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/each.js</span>",
     "function"
   ],
   [
-    "aureooms-js-array/src/map/enumerate.js~enumerate",
+    "@aureooms/js-array/src/map/enumerate.js~enumerate",
     "function/index.html#static-function-enumerate",
-    "<span>enumerate</span> <span class=\"search-result-import-path\">aureooms-js-array/src/map/enumerate.js</span>",
+    "<span>enumerate</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/map/enumerate.js</span>",
     "function"
   ],
   [
-    "aureooms-js-array/src/fill.js~fill",
+    "@aureooms/js-array/src/fill.js~fill",
     "function/index.html#static-function-fill",
-    "<span>fill</span> <span class=\"search-result-import-path\">aureooms-js-array/src/fill.js</span>",
+    "<span>fill</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/fill.js</span>",
     "function"
   ],
   [
-    "aureooms-js-array/src/fillfn.js~fillfn",
+    "@aureooms/js-array/src/fillfn.js~fillfn",
     "function/index.html#static-function-fillfn",
-    "<span>fillfn</span> <span class=\"search-result-import-path\">aureooms-js-array/src/fillfn.js</span>",
+    "<span>fillfn</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/fillfn.js</span>",
     "function"
   ],
   [
-    "aureooms-js-array/src/map/filter.js~filter",
+    "@aureooms/js-array/src/map/filter.js~filter",
     "function/index.html#static-function-filter",
-    "<span>filter</span> <span class=\"search-result-import-path\">aureooms-js-array/src/map/filter.js</span>",
+    "<span>filter</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/map/filter.js</span>",
     "function"
   ],
   [
-    "aureooms-js-array/src/map/filterfalse.js~filterfalse",
+    "@aureooms/js-array/src/map/filterfalse.js~filterfalse",
     "function/index.html#static-function-filterfalse",
-    "<span>filterfalse</span> <span class=\"search-result-import-path\">aureooms-js-array/src/map/filterfalse.js</span>",
+    "<span>filterfalse</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/map/filterfalse.js</span>",
     "function"
   ],
   [
-    "aureooms-js-array/src/get.js~get",
+    "@aureooms/js-array/src/get.js~get",
     "function/index.html#static-function-get",
-    "<span>get</span> <span class=\"search-result-import-path\">aureooms-js-array/src/get.js</span>",
+    "<span>get</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/get.js</span>",
     "function"
   ],
   [
-    "aureooms-js-array/src/map/group.js~group",
+    "@aureooms/js-array/src/map/group.js~group",
     "function/index.html#static-function-group",
-    "<span>group</span> <span class=\"search-result-import-path\">aureooms-js-array/src/map/group.js</span>",
+    "<span>group</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/map/group.js</span>",
     "function"
   ],
   [
-    "aureooms-js-array/src/iota.js~iota",
+    "@aureooms/js-array/src/iota.js~iota",
     "function/index.html#static-function-iota",
-    "<span>iota</span> <span class=\"search-result-import-path\">aureooms-js-array/src/iota.js</span>",
+    "<span>iota</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/iota.js</span>",
     "function"
   ],
   [
-    "aureooms-js-array/src/map/islice.js~islice",
+    "@aureooms/js-array/src/map/islice.js~islice",
     "function/index.html#static-function-islice",
-    "<span>islice</span> <span class=\"search-result-import-path\">aureooms-js-array/src/map/islice.js</span>",
+    "<span>islice</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/map/islice.js</span>",
     "function"
   ],
   [
-    "aureooms-js-array/src/map/map.js~map",
+    "@aureooms/js-array/src/map/map.js~map",
     "function/index.html#static-function-map",
-    "<span>map</span> <span class=\"search-result-import-path\">aureooms-js-array/src/map/map.js</span>",
+    "<span>map</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/map/map.js</span>",
     "function"
   ],
   [
-    "aureooms-js-array/src/max.js~max",
+    "@aureooms/js-array/src/max.js~max",
     "function/index.html#static-function-max",
-    "<span>max</span> <span class=\"search-result-import-path\">aureooms-js-array/src/max.js</span>",
+    "<span>max</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/max.js</span>",
     "function"
   ],
   [
-    "aureooms-js-array/src/min.js~min",
+    "@aureooms/js-array/src/min.js~min",
     "function/index.html#static-function-min",
-    "<span>min</span> <span class=\"search-result-import-path\">aureooms-js-array/src/min.js</span>",
+    "<span>min</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/min.js</span>",
     "function"
   ],
   [
-    "aureooms-js-array/src/map/permutations.js~permutations",
+    "@aureooms/js-array/src/map/permutations.js~permutations",
     "function/index.html#static-function-permutations",
-    "<span>permutations</span> <span class=\"search-result-import-path\">aureooms-js-array/src/map/permutations.js</span>",
+    "<span>permutations</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/map/permutations.js</span>",
     "function"
   ],
   [
-    "aureooms-js-array/src/utils/pick.js~pick",
+    "@aureooms/js-array/src/utils/pick.js~pick",
     "function/index.html#static-function-pick",
-    "<span>pick</span> <span class=\"search-result-import-path\">aureooms-js-array/src/utils/pick.js</span>",
+    "<span>pick</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/utils/pick.js</span>",
     "function"
   ],
   [
-    "aureooms-js-array/src/map/product.js~product",
+    "@aureooms/js-array/src/map/product.js~product",
     "function/index.html#static-function-product",
-    "<span>product</span> <span class=\"search-result-import-path\">aureooms-js-array/src/map/product.js</span>",
+    "<span>product</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/map/product.js</span>",
     "function"
   ],
   [
-    "aureooms-js-array/src/utils/range.js~range",
+    "@aureooms/js-array/src/utils/range.js~range",
     "function/index.html#static-function-range",
-    "<span>range</span> <span class=\"search-result-import-path\">aureooms-js-array/src/utils/range.js</span>",
+    "<span>range</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/utils/range.js</span>",
     "function"
   ],
   [
-    "aureooms-js-array/src/realloc.js~realloc",
+    "@aureooms/js-array/src/realloc.js~realloc",
     "function/index.html#static-function-realloc",
-    "<span>realloc</span> <span class=\"search-result-import-path\">aureooms-js-array/src/realloc.js</span>",
+    "<span>realloc</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/realloc.js</span>",
     "function"
   ],
   [
-    "aureooms-js-array/src/reduce/reduce.js~reduce",
+    "@aureooms/js-array/src/reduce/reduce.js~reduce",
     "function/index.html#static-function-reduce",
-    "<span>reduce</span> <span class=\"search-result-import-path\">aureooms-js-array/src/reduce/reduce.js</span>",
+    "<span>reduce</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/reduce/reduce.js</span>",
     "function"
   ],
   [
-    "aureooms-js-array/src/map/repeat.js~repeat",
+    "@aureooms/js-array/src/map/repeat.js~repeat",
     "function/index.html#static-function-repeat",
-    "<span>repeat</span> <span class=\"search-result-import-path\">aureooms-js-array/src/map/repeat.js</span>",
+    "<span>repeat</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/map/repeat.js</span>",
     "function"
   ],
   [
-    "aureooms-js-array/src/repr.js~repr",
+    "@aureooms/js-array/src/repr.js~repr",
     "function/index.html#static-function-repr",
-    "<span>repr</span> <span class=\"search-result-import-path\">aureooms-js-array/src/repr.js</span>",
+    "<span>repr</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/repr.js</span>",
     "function"
   ],
   [
-    "aureooms-js-array/src/reverse.js~reverse",
+    "@aureooms/js-array/src/reverse.js~reverse",
     "function/index.html#static-function-reverse",
-    "<span>reverse</span> <span class=\"search-result-import-path\">aureooms-js-array/src/reverse.js</span>",
+    "<span>reverse</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/reverse.js</span>",
     "function"
   ],
   [
-    "aureooms-js-array/src/map/reversed.js~reversed",
+    "@aureooms/js-array/src/map/reversed.js~reversed",
     "function/index.html#static-function-reversed",
-    "<span>reversed</span> <span class=\"search-result-import-path\">aureooms-js-array/src/map/reversed.js</span>",
+    "<span>reversed</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/map/reversed.js</span>",
     "function"
   ],
   [
-    "aureooms-js-array/src/rotate.js~rotate",
+    "@aureooms/js-array/src/rotate.js~rotate",
     "function/index.html#static-function-rotate",
-    "<span>rotate</span> <span class=\"search-result-import-path\">aureooms-js-array/src/rotate.js</span>",
+    "<span>rotate</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/rotate.js</span>",
     "function"
   ],
   [
-    "aureooms-js-array/src/set.js~set",
+    "@aureooms/js-array/src/set.js~set",
     "function/index.html#static-function-set",
-    "<span>set</span> <span class=\"search-result-import-path\">aureooms-js-array/src/set.js</span>",
+    "<span>set</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/set.js</span>",
     "function"
   ],
   [
-    "aureooms-js-array/src/slice.js~slice",
+    "@aureooms/js-array/src/slice.js~slice",
     "function/index.html#static-function-slice",
-    "<span>slice</span> <span class=\"search-result-import-path\">aureooms-js-array/src/slice.js</span>",
+    "<span>slice</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/slice.js</span>",
     "function"
   ],
   [
-    "aureooms-js-array/src/sort.js~sort",
+    "@aureooms/js-array/src/sort.js~sort",
     "function/index.html#static-function-sort",
-    "<span>sort</span> <span class=\"search-result-import-path\">aureooms-js-array/src/sort.js</span>",
+    "<span>sort</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/sort.js</span>",
     "function"
   ],
   [
-    "aureooms-js-array/src/map/sorted.js~sorted",
+    "@aureooms/js-array/src/map/sorted.js~sorted",
     "function/index.html#static-function-sorted",
-    "<span>sorted</span> <span class=\"search-result-import-path\">aureooms-js-array/src/map/sorted.js</span>",
+    "<span>sorted</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/map/sorted.js</span>",
     "function"
   ],
   [
-    "aureooms-js-array/src/splice.js~splice",
+    "@aureooms/js-array/src/splice.js~splice",
     "function/index.html#static-function-splice",
-    "<span>splice</span> <span class=\"search-result-import-path\">aureooms-js-array/src/splice.js</span>",
+    "<span>splice</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/splice.js</span>",
     "function"
   ],
   [
-    "aureooms-js-array/src/map/starmap.js~starmap",
+    "@aureooms/js-array/src/map/starmap.js~starmap",
     "function/index.html#static-function-starmap",
-    "<span>starmap</span> <span class=\"search-result-import-path\">aureooms-js-array/src/map/starmap.js</span>",
+    "<span>starmap</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/map/starmap.js</span>",
     "function"
   ],
   [
-    "aureooms-js-array/src/reduce/sum.js~sum",
+    "@aureooms/js-array/src/reduce/sum.js~sum",
     "function/index.html#static-function-sum",
-    "<span>sum</span> <span class=\"search-result-import-path\">aureooms-js-array/src/reduce/sum.js</span>",
+    "<span>sum</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/reduce/sum.js</span>",
     "function"
   ],
   [
-    "aureooms-js-array/src/swap.js~swap",
+    "@aureooms/js-array/src/swap.js~swap",
     "function/index.html#static-function-swap",
-    "<span>swap</span> <span class=\"search-result-import-path\">aureooms-js-array/src/swap.js</span>",
+    "<span>swap</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/swap.js</span>",
     "function"
   ],
   [
-    "aureooms-js-array/src/swapranges.js~swapranges",
+    "@aureooms/js-array/src/swapranges.js~swapranges",
     "function/index.html#static-function-swapranges",
-    "<span>swapranges</span> <span class=\"search-result-import-path\">aureooms-js-array/src/swapranges.js</span>",
+    "<span>swapranges</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/swapranges.js</span>",
     "function"
   ],
   [
-    "aureooms-js-array/src/map/takewhile.js~takewhile",
+    "@aureooms/js-array/src/map/takewhile.js~takewhile",
     "function/index.html#static-function-takewhile",
-    "<span>takewhile</span> <span class=\"search-result-import-path\">aureooms-js-array/src/map/takewhile.js</span>",
+    "<span>takewhile</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/map/takewhile.js</span>",
     "function"
   ],
   [
-    "aureooms-js-array/src/utils/tee.js~tee",
+    "@aureooms/js-array/src/utils/tee.js~tee",
     "function/index.html#static-function-tee",
-    "<span>tee</span> <span class=\"search-result-import-path\">aureooms-js-array/src/utils/tee.js</span>",
+    "<span>tee</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/utils/tee.js</span>",
     "function"
   ],
   [
-    "aureooms-js-array/src/map/zip.js~zip",
+    "@aureooms/js-array/src/map/zip.js~zip",
     "function/index.html#static-function-zip",
-    "<span>zip</span> <span class=\"search-result-import-path\">aureooms-js-array/src/map/zip.js</span>",
+    "<span>zip</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/map/zip.js</span>",
     "function"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~array",
+    "src/.external-ecmascript.js~array",
     "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array",
-    "BuiltinExternal/ECMAScriptExternal.js~Array",
+    "src/.external-ecmascript.js~Array",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~arraybuffer",
+    "src/.external-ecmascript.js~arraybuffer",
     "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ArrayBuffer",
-    "BuiltinExternal/ECMAScriptExternal.js~ArrayBuffer",
+    "src/.external-ecmascript.js~ArrayBuffer",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~boolean",
+    "src/.external-ecmascript.js~boolean",
     "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
-    "BuiltinExternal/ECMAScriptExternal.js~Boolean",
+    "src/.external-ecmascript.js~Boolean",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~dataview",
+    "src/.external-ecmascript.js~dataview",
     "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView",
-    "BuiltinExternal/ECMAScriptExternal.js~DataView",
+    "src/.external-ecmascript.js~DataView",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~date",
+    "src/.external-ecmascript.js~date",
     "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date",
-    "BuiltinExternal/ECMAScriptExternal.js~Date",
+    "src/.external-ecmascript.js~Date",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~error",
+    "src/.external-ecmascript.js~error",
     "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error",
-    "BuiltinExternal/ECMAScriptExternal.js~Error",
+    "src/.external-ecmascript.js~Error",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~evalerror",
+    "src/.external-ecmascript.js~evalerror",
     "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/EvalError",
-    "BuiltinExternal/ECMAScriptExternal.js~EvalError",
+    "src/.external-ecmascript.js~EvalError",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~float32array",
+    "src/.external-ecmascript.js~float32array",
     "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float32Array",
-    "BuiltinExternal/ECMAScriptExternal.js~Float32Array",
+    "src/.external-ecmascript.js~Float32Array",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~float64array",
+    "src/.external-ecmascript.js~float64array",
     "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float64Array",
-    "BuiltinExternal/ECMAScriptExternal.js~Float64Array",
+    "src/.external-ecmascript.js~Float64Array",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~function",
+    "src/.external-ecmascript.js~function",
     "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
-    "BuiltinExternal/ECMAScriptExternal.js~Function",
+    "src/.external-ecmascript.js~Function",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~generator",
+    "src/.external-ecmascript.js~generator",
     "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator",
-    "BuiltinExternal/ECMAScriptExternal.js~Generator",
+    "src/.external-ecmascript.js~Generator",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~generatorfunction",
+    "src/.external-ecmascript.js~generatorfunction",
     "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/GeneratorFunction",
-    "BuiltinExternal/ECMAScriptExternal.js~GeneratorFunction",
+    "src/.external-ecmascript.js~GeneratorFunction",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~infinity",
+    "src/.external-ecmascript.js~infinity",
     "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Infinity",
-    "BuiltinExternal/ECMAScriptExternal.js~Infinity",
+    "src/.external-ecmascript.js~Infinity",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~int16array",
+    "src/.external-ecmascript.js~int16array",
     "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int16Array",
-    "BuiltinExternal/ECMAScriptExternal.js~Int16Array",
+    "src/.external-ecmascript.js~Int16Array",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~int32array",
+    "src/.external-ecmascript.js~int32array",
     "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int32Array",
-    "BuiltinExternal/ECMAScriptExternal.js~Int32Array",
+    "src/.external-ecmascript.js~Int32Array",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~int8array",
+    "src/.external-ecmascript.js~int8array",
     "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int8Array",
-    "BuiltinExternal/ECMAScriptExternal.js~Int8Array",
+    "src/.external-ecmascript.js~Int8Array",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~internalerror",
+    "src/.external-ecmascript.js~internalerror",
     "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/InternalError",
-    "BuiltinExternal/ECMAScriptExternal.js~InternalError",
+    "src/.external-ecmascript.js~InternalError",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~json",
+    "src/.external-ecmascript.js~json",
     "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON",
-    "BuiltinExternal/ECMAScriptExternal.js~JSON",
+    "src/.external-ecmascript.js~JSON",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~map",
+    "src/.external-ecmascript.js~map",
     "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map",
-    "BuiltinExternal/ECMAScriptExternal.js~Map",
+    "src/.external-ecmascript.js~Map",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~nan",
+    "src/.external-ecmascript.js~nan",
     "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN",
-    "BuiltinExternal/ECMAScriptExternal.js~NaN",
+    "src/.external-ecmascript.js~NaN",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~number",
+    "src/.external-ecmascript.js~number",
     "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
-    "BuiltinExternal/ECMAScriptExternal.js~Number",
+    "src/.external-ecmascript.js~Number",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~object",
+    "src/.external-ecmascript.js~object",
     "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
-    "BuiltinExternal/ECMAScriptExternal.js~Object",
+    "src/.external-ecmascript.js~Object",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~promise",
+    "src/.external-ecmascript.js~promise",
     "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise",
-    "BuiltinExternal/ECMAScriptExternal.js~Promise",
+    "src/.external-ecmascript.js~Promise",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~proxy",
+    "src/.external-ecmascript.js~proxy",
     "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy",
-    "BuiltinExternal/ECMAScriptExternal.js~Proxy",
+    "src/.external-ecmascript.js~Proxy",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~rangeerror",
+    "src/.external-ecmascript.js~rangeerror",
     "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RangeError",
-    "BuiltinExternal/ECMAScriptExternal.js~RangeError",
+    "src/.external-ecmascript.js~RangeError",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~referenceerror",
+    "src/.external-ecmascript.js~referenceerror",
     "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ReferenceError",
-    "BuiltinExternal/ECMAScriptExternal.js~ReferenceError",
+    "src/.external-ecmascript.js~ReferenceError",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~reflect",
+    "src/.external-ecmascript.js~reflect",
     "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect",
-    "BuiltinExternal/ECMAScriptExternal.js~Reflect",
+    "src/.external-ecmascript.js~Reflect",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~regexp",
+    "src/.external-ecmascript.js~regexp",
     "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp",
-    "BuiltinExternal/ECMAScriptExternal.js~RegExp",
+    "src/.external-ecmascript.js~RegExp",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~set",
+    "src/.external-ecmascript.js~set",
     "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set",
-    "BuiltinExternal/ECMAScriptExternal.js~Set",
+    "src/.external-ecmascript.js~Set",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~string",
+    "src/.external-ecmascript.js~string",
     "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
-    "BuiltinExternal/ECMAScriptExternal.js~String",
+    "src/.external-ecmascript.js~String",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~symbol",
+    "src/.external-ecmascript.js~symbol",
     "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol",
-    "BuiltinExternal/ECMAScriptExternal.js~Symbol",
+    "src/.external-ecmascript.js~Symbol",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~syntaxerror",
+    "src/.external-ecmascript.js~syntaxerror",
     "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SyntaxError",
-    "BuiltinExternal/ECMAScriptExternal.js~SyntaxError",
+    "src/.external-ecmascript.js~SyntaxError",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~typeerror",
+    "src/.external-ecmascript.js~typeerror",
     "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypeError",
-    "BuiltinExternal/ECMAScriptExternal.js~TypeError",
+    "src/.external-ecmascript.js~TypeError",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~urierror",
+    "src/.external-ecmascript.js~urierror",
     "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/URIError",
-    "BuiltinExternal/ECMAScriptExternal.js~URIError",
+    "src/.external-ecmascript.js~URIError",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~uint16array",
+    "src/.external-ecmascript.js~uint16array",
     "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint16Array",
-    "BuiltinExternal/ECMAScriptExternal.js~Uint16Array",
+    "src/.external-ecmascript.js~Uint16Array",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~uint32array",
+    "src/.external-ecmascript.js~uint32array",
     "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint32Array",
-    "BuiltinExternal/ECMAScriptExternal.js~Uint32Array",
+    "src/.external-ecmascript.js~Uint32Array",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~uint8array",
+    "src/.external-ecmascript.js~uint8array",
     "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8Array",
-    "BuiltinExternal/ECMAScriptExternal.js~Uint8Array",
+    "src/.external-ecmascript.js~Uint8Array",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~uint8clampedarray",
+    "src/.external-ecmascript.js~uint8clampedarray",
     "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8ClampedArray",
-    "BuiltinExternal/ECMAScriptExternal.js~Uint8ClampedArray",
+    "src/.external-ecmascript.js~Uint8ClampedArray",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~weakmap",
+    "src/.external-ecmascript.js~weakmap",
     "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakMap",
-    "BuiltinExternal/ECMAScriptExternal.js~WeakMap",
+    "src/.external-ecmascript.js~WeakMap",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~weakset",
+    "src/.external-ecmascript.js~weakset",
     "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet",
-    "BuiltinExternal/ECMAScriptExternal.js~WeakSet",
+    "src/.external-ecmascript.js~WeakSet",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~boolean",
+    "src/.external-ecmascript.js~boolean",
     "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
-    "BuiltinExternal/ECMAScriptExternal.js~boolean",
+    "src/.external-ecmascript.js~boolean",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~function",
+    "src/.external-ecmascript.js~function",
     "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
-    "BuiltinExternal/ECMAScriptExternal.js~function",
+    "src/.external-ecmascript.js~function",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~null",
+    "src/.external-ecmascript.js~null",
     "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/null",
-    "BuiltinExternal/ECMAScriptExternal.js~null",
+    "src/.external-ecmascript.js~null",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~number",
+    "src/.external-ecmascript.js~number",
     "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
-    "BuiltinExternal/ECMAScriptExternal.js~number",
+    "src/.external-ecmascript.js~number",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~object",
+    "src/.external-ecmascript.js~object",
     "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
-    "BuiltinExternal/ECMAScriptExternal.js~object",
+    "src/.external-ecmascript.js~object",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~string",
+    "src/.external-ecmascript.js~string",
     "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
-    "BuiltinExternal/ECMAScriptExternal.js~string",
+    "src/.external-ecmascript.js~string",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~undefined",
+    "src/.external-ecmascript.js~undefined",
     "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined",
-    "BuiltinExternal/ECMAScriptExternal.js~undefined",
-    "external"
-  ],
-  [
-    "builtinexternal/webapiexternal.js~audiocontext",
-    "https://developer.mozilla.org/en/docs/Web/API/AudioContext",
-    "BuiltinExternal/WebAPIExternal.js~AudioContext",
-    "external"
-  ],
-  [
-    "builtinexternal/webapiexternal.js~canvasrenderingcontext2d",
-    "https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D",
-    "BuiltinExternal/WebAPIExternal.js~CanvasRenderingContext2D",
-    "external"
-  ],
-  [
-    "builtinexternal/webapiexternal.js~documentfragment",
-    "https://developer.mozilla.org/en-US/docs/Web/API/DocumentFragment",
-    "BuiltinExternal/WebAPIExternal.js~DocumentFragment",
-    "external"
-  ],
-  [
-    "builtinexternal/webapiexternal.js~element",
-    "https://developer.mozilla.org/en-US/docs/Web/API/Element",
-    "BuiltinExternal/WebAPIExternal.js~Element",
-    "external"
-  ],
-  [
-    "builtinexternal/webapiexternal.js~event",
-    "https://developer.mozilla.org/en-US/docs/Web/API/Event",
-    "BuiltinExternal/WebAPIExternal.js~Event",
-    "external"
-  ],
-  [
-    "builtinexternal/webapiexternal.js~node",
-    "https://developer.mozilla.org/en-US/docs/Web/API/Node",
-    "BuiltinExternal/WebAPIExternal.js~Node",
-    "external"
-  ],
-  [
-    "builtinexternal/webapiexternal.js~nodelist",
-    "https://developer.mozilla.org/en-US/docs/Web/API/NodeList",
-    "BuiltinExternal/WebAPIExternal.js~NodeList",
-    "external"
-  ],
-  [
-    "builtinexternal/webapiexternal.js~xmlhttprequest",
-    "https://developer.mozilla.org/en/docs/Web/API/XMLHttpRequest",
-    "BuiltinExternal/WebAPIExternal.js~XMLHttpRequest",
+    "src/.external-ecmascript.js~undefined",
     "external"
   ],
   [

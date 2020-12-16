@@ -3,21 +3,7 @@
   "expectCount": 47,
   "actualCount": 4,
   "files": {
-    "src/reduce/all.js": {
-      "expectCount": 1,
-      "actualCount": 0,
-      "undocumentLines": [
-        2
-      ]
-    },
     "src/alloc.js": {
-      "expectCount": 1,
-      "actualCount": 0,
-      "undocumentLines": [
-        2
-      ]
-    },
-    "src/reduce/any.js": {
       "expectCount": 1,
       "actualCount": 0,
       "undocumentLines": [
@@ -32,6 +18,48 @@
       ]
     },
     "src/argmin.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        3
+      ]
+    },
+    "src/copy.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        3
+      ]
+    },
+    "src/each.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        2
+      ]
+    },
+    "src/fill.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        3
+      ]
+    },
+    "src/fillfn.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        3
+      ]
+    },
+    "src/get.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        2
+      ]
+    },
+    "src/iota.js": {
       "expectCount": 1,
       "actualCount": 0,
       "undocumentLines": [
@@ -66,13 +94,6 @@
         3
       ]
     },
-    "src/copy.js": {
-      "expectCount": 1,
-      "actualCount": 0,
-      "undocumentLines": [
-        3
-      ]
-    },
     "src/map/dropwhile.js": {
       "expectCount": 1,
       "actualCount": 0,
@@ -80,28 +101,7 @@
         2
       ]
     },
-    "src/each.js": {
-      "expectCount": 1,
-      "actualCount": 0,
-      "undocumentLines": [
-        2
-      ]
-    },
     "src/map/enumerate.js": {
-      "expectCount": 1,
-      "actualCount": 0,
-      "undocumentLines": [
-        3
-      ]
-    },
-    "src/fill.js": {
-      "expectCount": 1,
-      "actualCount": 0,
-      "undocumentLines": [
-        3
-      ]
-    },
-    "src/fillfn.js": {
       "expectCount": 1,
       "actualCount": 0,
       "undocumentLines": [
@@ -122,25 +122,11 @@
         2
       ]
     },
-    "src/get.js": {
-      "expectCount": 1,
-      "actualCount": 0,
-      "undocumentLines": [
-        2
-      ]
-    },
     "src/map/group.js": {
       "expectCount": 1,
       "actualCount": 0,
       "undocumentLines": [
         2
-      ]
-    },
-    "src/iota.js": {
-      "expectCount": 1,
-      "actualCount": 0,
-      "undocumentLines": [
-        3
       ]
     },
     "src/map/islice.js": {
@@ -154,6 +140,60 @@
       "expectCount": 1,
       "actualCount": 1,
       "undocumentLines": []
+    },
+    "src/map/permutations.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        3
+      ]
+    },
+    "src/map/product.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        3
+      ]
+    },
+    "src/map/repeat.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        3
+      ]
+    },
+    "src/map/reversed.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        2
+      ]
+    },
+    "src/map/sorted.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        3
+      ]
+    },
+    "src/map/starmap.js": {
+      "expectCount": 1,
+      "actualCount": 1,
+      "undocumentLines": []
+    },
+    "src/map/takewhile.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        2
+      ]
+    },
+    "src/map/zip.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        3
+      ]
     },
     "src/max.js": {
       "expectCount": 1,
@@ -169,34 +209,6 @@
         3
       ]
     },
-    "src/map/permutations.js": {
-      "expectCount": 1,
-      "actualCount": 0,
-      "undocumentLines": [
-        3
-      ]
-    },
-    "src/utils/pick.js": {
-      "expectCount": 1,
-      "actualCount": 0,
-      "undocumentLines": [
-        2
-      ]
-    },
-    "src/map/product.js": {
-      "expectCount": 1,
-      "actualCount": 0,
-      "undocumentLines": [
-        3
-      ]
-    },
-    "src/utils/range.js": {
-      "expectCount": 1,
-      "actualCount": 0,
-      "undocumentLines": [
-        3
-      ]
-    },
     "src/realloc.js": {
       "expectCount": 1,
       "actualCount": 0,
@@ -204,12 +216,26 @@
         3
       ]
     },
+    "src/reduce/all.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        2
+      ]
+    },
+    "src/reduce/any.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        2
+      ]
+    },
     "src/reduce/reduce.js": {
       "expectCount": 1,
       "actualCount": 1,
       "undocumentLines": []
     },
-    "src/map/repeat.js": {
+    "src/reduce/sum.js": {
       "expectCount": 1,
       "actualCount": 0,
       "undocumentLines": [
@@ -228,13 +254,6 @@
       "actualCount": 0,
       "undocumentLines": [
         3
-      ]
-    },
-    "src/map/reversed.js": {
-      "expectCount": 1,
-      "actualCount": 0,
-      "undocumentLines": [
-        2
       ]
     },
     "src/rotate.js": {
@@ -263,26 +282,7 @@
         2
       ]
     },
-    "src/map/sorted.js": {
-      "expectCount": 1,
-      "actualCount": 0,
-      "undocumentLines": [
-        3
-      ]
-    },
     "src/splice.js": {
-      "expectCount": 1,
-      "actualCount": 0,
-      "undocumentLines": [
-        3
-      ]
-    },
-    "src/map/starmap.js": {
-      "expectCount": 1,
-      "actualCount": 1,
-      "undocumentLines": []
-    },
-    "src/reduce/sum.js": {
       "expectCount": 1,
       "actualCount": 0,
       "undocumentLines": [
@@ -303,21 +303,21 @@
         3
       ]
     },
-    "src/map/takewhile.js": {
+    "src/utils/pick.js": {
       "expectCount": 1,
       "actualCount": 0,
       "undocumentLines": [
         2
       ]
     },
-    "src/utils/tee.js": {
+    "src/utils/range.js": {
       "expectCount": 1,
       "actualCount": 0,
       "undocumentLines": [
         3
       ]
     },
-    "src/map/zip.js": {
+    "src/utils/tee.js": {
       "expectCount": 1,
       "actualCount": 0,
       "undocumentLines": [
