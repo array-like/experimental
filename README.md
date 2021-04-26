@@ -1,8 +1,8 @@
-:nut_and_bolt: [@aureooms/js-array](https://aureooms.github.io/js-array)
+:nut_and_bolt: [@aureooms/js-array](https://make-github-pseudonymous-again.github.io/js-array)
 ==
 
 Array manipulation library for JavaScript.
-See [documentation](https://aureooms.github.io/js-array).
+See [documentation](https://make-github-pseudonymous-again.github.io/js-array).
 Parent is [@aureooms/js-library](https://github.com/aureooms/js-library).
 
 ```js
@@ -21,5 +21,5 @@ let buffer = array.alloc( 10000 ) ;
 [![Code maintainability](https://img.shields.io/codeclimate/maintainability/aureooms/js-array.svg)](https://codeclimate.com/github/aureooms/js-array/trends/churn)
 [![Code coverage (cov)](https://img.shields.io/codecov/c/gh/aureooms/js-array/main.svg)](https://codecov.io/gh/aureooms/js-array)
 [![Code technical debt](https://img.shields.io/codeclimate/tech-debt/aureooms/js-array.svg)](https://codeclimate.com/github/aureooms/js-array/trends/technical_debt)
-[![Documentation](https://aureooms.github.io/js-array//badge.svg)](https://aureooms.github.io/js-array//source.html)
+[![Documentation](https://make-github-pseudonymous-again.github.io/js-array//badge.svg)](https://make-github-pseudonymous-again.github.io/js-array//source.html)
 [![Package size](https://img.shields.io/bundlephobia/minzip/@aureooms/js-array)](https://bundlephobia.com/result?p=@aureooms/js-array)
