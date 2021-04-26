@@ -74,7 +74,7 @@
     }
   },
   "bugs": {
-    "url": "https://github.com/aureooms/js-array/issues"
+    "url": "https://github.com/make-github-pseudonymous-again/js-array/issues"
   },
   "dependencies": {},
   "devDependencies": {
@@ -118,7 +118,7 @@
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/aureooms/js-array.git"
+    "url": "https://github.com/make-github-pseudonymous-again/js-array.git"
   },
   "scripts": {
     "build": "babel src -d lib",
