@@ -1,60 +1,48 @@
+import util from 'node:util';
 import test from 'ava';
 
-import util from "util" ;
+import {increasing, decreasing} from '@total-order/primitive';
 
-import {increasing, decreasing} from "@total-order/primitive" ;
-
-import {contains} from "@functional-abstraction/operator" ;
+import {contains} from '@functional-abstraction/operator';
 
 import {reduce} from '@array-like/reduce';
 
 import {sorted} from '../../../src/index.js';
 
-test( "sorted", t => {
+test('sorted', (t) => {
+	function one(f, a) {
+		const b = sorted(f, a);
 
-function one ( f, a ) {
+		t.deepEqual(b.length, a.length, 'length check');
 
-	var b, i, initializer;
+		const initializer = {};
 
-	b = sorted( f, a );
+		reduce(
+			(x, y) => {
+				if (x !== initializer) {
+					t.true(f(x, y) <= 0, util.format('f( %f, %f ) <= 0', x, y));
+				}
 
-	t.deepEqual( b.length, a.length, "length check" );
+				t.true(contains(a, y), util.format('%f in %s', y, JSON.stringify(a)));
 
-	initializer = {};
+				return y;
+			},
+			b,
+			initializer,
+		);
+	}
 
-	reduce( function ( x, y ) {
+	for (const f of [increasing, decreasing]) {
+		const a = [];
 
-		if ( x !== initializer ) {
+		const n = 100;
 
-			t.truthy( f( x, y ) <= 0, util.format( "f( %f, %f ) <= 0", x, y ) );
+		let i = n;
 
+		while (i--) {
+			a.push(Math.random());
 		}
 
-		t.truthy( contains( a, y ), util.format( "%f in %s", y, JSON.stringify( a ) ) );
-
-		return y;
-
-	}, b, initializer );
-
-};
-
-
-	[increasing, decreasing].forEach( function (f) {
-
-		var a, i, n;
-
-		a = [];
-
-		n = 100;
-
-		i = n;
-
-		while ( i-- ) {
-			a.push( Math.random() );
-		}
-
-		one( f, a );
-
-	});
-
+		one(f, a);
+	}
 });

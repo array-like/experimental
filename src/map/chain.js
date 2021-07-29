@@ -1,27 +1,18 @@
+export function chain(iterables, out) {
+	const len = iterables.length;
 
-export function chain ( iterables, out ) {
-
-	var i, j, n, len, it;
-
-	len = iterables.length;
-
-
-	if ( len === 0 ) {
+	if (len === 0) {
 		return out;
 	}
 
+	for (let i = 0; i < len; ++i) {
+		const it = iterables[i];
+		const n = it.length;
 
-	for ( i = 0 ; i < len ; ++i ) {
-
-		it = iterables[i];
-		n = it.length;
-
-		for ( j = 0 ; j < n ; ++j ) {
-			out.push( it[j] );
+		for (let j = 0; j < n; ++j) {
+			out.push(it[j]);
 		}
 	}
 
 	return out;
-
 }
-

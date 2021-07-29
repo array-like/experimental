@@ -1,4 +1,3 @@
-
 /**
  *
  * Maps a callable object over an array.
@@ -7,17 +6,12 @@
  *
  */
 
-export function starmap ( callable, iterable, out ) {
+export function starmap(callable, iterable, out) {
+	const len = iterable.length;
 
-	var i, len;
-
-	len = iterable.length;
-
-	for ( i = 0 ; i < len ; ++i ) {
-		out.push( callable.apply( null, iterable[i] ) );
+	for (let i = 0; i < len; ++i) {
+		out.push(callable(...iterable[i]));
 	}
 
 	return out;
-
 }
-

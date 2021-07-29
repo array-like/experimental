@@ -1,5 +1,3 @@
-
-export function sort ( f, array ) {
-	return Array.prototype.sort.call( array, f );
+export function sort(f, array) {
+	return Array.prototype.sort.call(array, f);
 }
-

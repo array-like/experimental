@@ -1,15 +1,10 @@
+export function pick(array, indices, out) {
+	const len = indices.length;
 
-export function pick( array, indices, out ) {
-
-	var i, k, len;
-
-	len = indices.length;
-
-	for ( i = 0 ; i < len ; ++i ) {
-		k = indices[i];
-		out.push( array[k] );
+	for (let i = 0; i < len; ++i) {
+		const k = indices[i];
+		out.push(array[k]);
 	}
 
 	return out;
 }
-

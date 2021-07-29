@@ -1,40 +1,29 @@
+export function zip(iterables, out) {
+	const len = iterables.length;
 
-
-export function zip ( iterables, out ) {
-
-	var i, j, n, len, tmp, tuple;
-
-	len = iterables.length;
-
-
-	if ( len === 0 ) {
+	if (len === 0) {
 		return out;
 	}
 
+	let n = iterables[0].length;
 
-	n = iterables[0].length;
+	for (let i = 0; i < len; ++i) {
+		const tmp = iterables[i].length;
 
-	for ( i = 0 ; i < len ; ++i ) {
-
-		tmp = iterables[i].length;
-
-		if ( tmp < n ) {
+		if (tmp < n) {
 			n = tmp;
 		}
-
 	}
 
-	for ( j = 0 ; j < n ; ++j ) {
+	for (let j = 0; j < n; ++j) {
+		const tuple = [];
 
-		tuple = []
-
-		for ( i = 0 ; i < len ; ++i ) {
-			tuple.push( iterables[i][j] );
+		for (let i = 0; i < len; ++i) {
+			tuple.push(iterables[i][j]);
 		}
 
-		out.push( tuple );
+		out.push(tuple);
 	}
 
 	return out;
 }
-

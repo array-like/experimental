@@ -1,5 +1,3 @@
-
-export function get ( a , i ) {
-	return a[i] ;
+export function get(a, i) {
+	return a[i];
 }
-

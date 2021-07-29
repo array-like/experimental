@@ -1,5 +1,3 @@
-
-export function set ( a , i , v ) {
-	a[i] = v ;
+export function set(a, i, v) {
+	a[i] = v;
 }
-

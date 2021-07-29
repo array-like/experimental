@@ -1,34 +1,28 @@
+export function dropwhile(predicate, iterable, out) {
+	const n = iterable.length;
 
-export function dropwhile ( predicate, iterable, out ) {
-
-	var i, n, e;
-
-	n = iterable.length;
-
-	if ( n === 0 ) {
+	if (n === 0) {
 		return out;
 	}
 
-	i = 0;
-	e = iterable[i];
+	let i = 0;
+	let e = iterable[i];
 
-	while ( predicate( e ) ) {
+	while (predicate(e)) {
 		++i;
 
-		if ( i === n ) {
+		if (i === n) {
 			return out;
 		}
 
 		e = iterable[i];
 	}
 
-	out.push( e );
+	out.push(e);
 
-	for ( ++i ; i < n ; ++i ) {
-		out.push( iterable[i] );
+	for (++i; i < n; ++i) {
+		out.push(iterable[i]);
 	}
 
 	return out;
-
 }
-

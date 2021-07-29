@@ -1,44 +1,35 @@
+export function group(key, iterable, out) {
+	const len = iterable.length;
 
-export function group ( key, iterable, out ) {
-
-	var i, len, curr, next, tuple, item, items;
-
-	len = iterable.length;
-
-	if ( len === 0 ) {
+	if (len === 0) {
 		return out;
 	}
 
-	i = 0;
-	item = iterable[i];
-	next = key( item );
+	let i = 0;
+	let item = iterable[i];
+	let next = key(item);
 
 	do {
-		curr = next;
-		items = [item];
-		tuple = [curr, items];
+		const curr = next;
+		const items = [item];
+		const tuple = [curr, items];
 
 		++i;
 
-		while ( i < len ) {
-
+		while (i < len) {
 			item = iterable[i];
-			next = key( item );
+			next = key(item);
 
-			if ( next !== curr ) {
+			if (next !== curr) {
 				break;
 			}
 
-			items.push( item );
+			items.push(item);
 			++i;
 		}
 
-		out.push( tuple );
-
-	} while ( i < len );
-
+		out.push(tuple);
+	} while (i < len);
 
 	return out;
-
 }
-

@@ -5,16 +5,14 @@ import {iota} from '@array-like/fill';
 
 import {repr} from '../../src/index.js';
 
-test( "repr", t => {
-
+test('repr', (t) => {
 	const n = 10;
 
-	const a = alloc( n );
-	const b = new Uint8Array( n );
+	const a = alloc(n);
+	const b = new Uint8Array(n);
 
-	iota( a, 0, n, 0 );
-	iota( b, 0, n, 0 );
+	iota(a, 0, n, 0);
+	iota(b, 0, n, 0);
 
-	t.is( repr( b, 0, n ), JSON.stringify( a ) );
-
+	t.is(repr(b, 0, n), JSON.stringify(a));
 });

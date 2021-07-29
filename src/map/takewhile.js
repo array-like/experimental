@@ -1,24 +1,19 @@
+export function takewhile(predicate, iterable, out) {
+	const n = iterable.length;
 
-export function takewhile ( predicate, iterable, out ) {
-
-	var i, n, e;
-
-	n = iterable.length;
-
-	if ( n === 0 ) {
+	if (n === 0) {
 		return out;
 	}
 
-	i = 0;
-	e = iterable[i];
+	let i = 0;
+	let e = iterable[i];
 
-	while ( predicate( e ) ) {
-
-		out.push( e );
+	while (predicate(e)) {
+		out.push(e);
 
 		++i;
 
-		if ( i === n ) {
+		if (i === n) {
 			return out;
 		}
 
@@ -26,6 +21,4 @@ export function takewhile ( predicate, iterable, out ) {
 	}
 
 	return out;
-
 }
-

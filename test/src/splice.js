@@ -5,44 +5,40 @@ import {iota} from '@array-like/fill';
 
 import {splice} from '../../src/index.js';
 
-test( "splice", t => {
+test('splice', (t) => {
+	const m = 3;
+	const n = m + m;
 
-	var a, b, c, m, n;
+	const a = alloc(m);
+	const b = new Uint8Array(m);
+	const c = alloc(n);
 
-	m = 3;
-	n = m + m;
+	iota(a, 0, m, m);
+	iota(b, 0, m, 0);
+	iota(c, 0, m, 0);
+	iota(c, m, n, m);
 
-	a = alloc( m );
-	b = new Uint8Array( m );
-	c = alloc( n );
+	splice(a, undefined, undefined, b, 0);
 
-	iota( a, 0, m, m );
-	iota( b, 0, m, 0 );
-	iota( c, 0, m, 0 );
-	iota( c, m, n, m );
+	t.deepEqual(a, c, 'undefined, undefined');
 
-	splice( a, undefined, undefined, b, 0 );
+	splice(a, undefined, b.length, []);
 
-	t.deepEqual( a, c, "undefined, undefined" );
+	t.deepEqual(a.length, m, 'check length');
 
-	splice( a, undefined, b.length, [] );
+	splice(a, 0, 0, b, 0);
 
-	t.deepEqual( a.length, m, "check length" );
+	t.deepEqual(a, c, '0, 0');
 
-	splice( a, 0, 0, b, 0 );
+	splice(a, undefined, b.length, []);
 
-	t.deepEqual( a, c, "0, 0" );
+	t.deepEqual(a.length, m, 'check length');
 
-	splice( a, undefined, b.length, [] );
+	splice(a, -a.length, -a.length, b, 0);
 
-	t.deepEqual( a.length, m, "check length" );
+	t.deepEqual(a, c, '-a.length, -a.length');
 
-	splice( a, -a.length, -a.length, b, 0 );
+	splice(a, undefined, b.length, []);
 
-	t.deepEqual( a, c, "-a.length, -a.length" );
-
-	splice( a, undefined, b.length, [] );
-
-	t.deepEqual( a.length, m, "check length" );
-
+	t.deepEqual(a.length, m, 'check length');
 });
