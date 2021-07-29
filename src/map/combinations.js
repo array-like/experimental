@@ -1,4 +1,5 @@
-import {range, pick} from '../index.js';
+import {range} from '../utils/range.js';
+import {pick} from '../utils/pick.js';
 
 export function combinations(iterable, repeat, out) {
 	// Combinations('ABCD', 2) --> AB AC AD BC BD CD

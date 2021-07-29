@@ -1,4 +1,5 @@
-import {repeat, pick} from '../index.js';
+import {pick} from '../utils/pick.js';
+import {repeat} from './repeat.js';
 
 export function combinationswithrepetition(iterable, r, out) {
 	// Combinationswithrepetition('ABC', 2) --> AA AB AC BB BC CC
