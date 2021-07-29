@@ -1,5 +1,5 @@
 import test from 'ava';
-import * as array from '../../../src';
+import * as array from '../../../src/index.js';
 test( "map", t => {
 var one = function ( callable, iterable, out ) {
 
