@@ -7,7 +7,7 @@ Parent is [js-library](https://github.com/make-github-pseudonymous-again/js-libr
 
 [![License](https://img.shields.io/github/license/array-like/experimental.svg)](https://raw.githubusercontent.com/array-like/experimental/main/LICENSE)
 [![Version](https://img.shields.io/npm/v/@array-like/experimental.svg)](https://www.npmjs.org/package/@array-like/experimental)
-[![Build](https://img.shields.io/travis/array-like/experimental/main.svg)](https://travis-ci.org/array-like/experimental/branches)
+[![Build](https://img.shields.io/travis/array-like/experimental/main.svg)](https://travis-ci.com/array-like/experimental/branches)
 [![Dependencies](https://img.shields.io/david/array-like/experimental.svg)](https://david-dm.org/array-like/experimental)
 [![Dev dependencies](https://img.shields.io/david/dev/array-like/experimental.svg)](https://david-dm.org/array-like/experimental?type=dev)
 [![GitHub issues](https://img.shields.io/github/issues/array-like/experimental.svg)](https://github.com/array-like/experimental/issues)
