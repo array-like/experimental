@@ -1,7 +1,7 @@
 {
   "name": "@array-like/experimental",
   "description": "Experimental array manipulation functions for JavaScript",
-  "version": "4.0.0",
+  "version": "5.0.0",
   "license": "AGPL-3.0",
   "author": "make-github-pseudonymous-again",
   "homepage": "https://array-like.github.io/experimental",
