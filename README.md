@@ -1,25 +1,21 @@
-:nut_and_bolt: [@aureooms/js-array](https://make-github-pseudonymous-again.github.io/js-array)
+:nut_and_bolt: [@array-like/experimental](https://array-like.github.io/experimental)
 ==
 
-Array manipulation library for JavaScript.
-See [documentation](https://make-github-pseudonymous-again.github.io/js-array).
-Parent is [@aureooms/js-library](https://github.com/make-github-pseudonymous-again/js-library).
+Experimental array manipulation functions for JavaScript.
+See [documentation](https://array-like.github.io/experimental).
+Parent is [js-library](https://github.com/make-github-pseudonymous-again/js-library).
 
-```js
-let buffer = array.alloc( 10000 ) ;
-```
+[![License](https://img.shields.io/github/license/array-like/experimental.svg)](https://raw.githubusercontent.com/array-like/experimental/main/LICENSE)
+[![Version](https://img.shields.io/npm/v/@array-like/experimental.svg)](https://www.npmjs.org/package/@array-like/experimental)
+[![Build](https://img.shields.io/travis/array-like/experimental/main.svg)](https://travis-ci.org/array-like/experimental/branches)
+[![Dependencies](https://img.shields.io/david/array-like/experimental.svg)](https://david-dm.org/array-like/experimental)
+[![Dev dependencies](https://img.shields.io/david/dev/array-like/experimental.svg)](https://david-dm.org/array-like/experimental?type=dev)
+[![GitHub issues](https://img.shields.io/github/issues/array-like/experimental.svg)](https://github.com/array-like/experimental/issues)
+[![Downloads](https://img.shields.io/npm/dm/@array-like/experimental.svg)](https://www.npmjs.org/package/@array-like/experimental)
 
-[![License](https://img.shields.io/github/license/make-github-pseudonymous-again/js-array.svg)](https://raw.githubusercontent.com/make-github-pseudonymous-again/js-array/main/LICENSE)
-[![Version](https://img.shields.io/npm/v/@aureooms/js-array.svg)](https://www.npmjs.org/package/@aureooms/js-array)
-[![Build](https://img.shields.io/travis/make-github-pseudonymous-again/js-array/main.svg)](https://travis-ci.org/make-github-pseudonymous-again/js-array/branches)
-[![Dependencies](https://img.shields.io/david/make-github-pseudonymous-again/js-array.svg)](https://david-dm.org/make-github-pseudonymous-again/js-array)
-[![Dev dependencies](https://img.shields.io/david/dev/make-github-pseudonymous-again/js-array.svg)](https://david-dm.org/make-github-pseudonymous-again/js-array?type=dev)
-[![GitHub issues](https://img.shields.io/github/issues/make-github-pseudonymous-again/js-array.svg)](https://github.com/make-github-pseudonymous-again/js-array/issues)
-[![Downloads](https://img.shields.io/npm/dm/@aureooms/js-array.svg)](https://www.npmjs.org/package/@aureooms/js-array)
-
-[![Code issues](https://img.shields.io/codeclimate/issues/make-github-pseudonymous-again/js-array.svg)](https://codeclimate.com/github/make-github-pseudonymous-again/js-array/issues)
-[![Code maintainability](https://img.shields.io/codeclimate/maintainability/make-github-pseudonymous-again/js-array.svg)](https://codeclimate.com/github/make-github-pseudonymous-again/js-array/trends/churn)
-[![Code coverage (cov)](https://img.shields.io/codecov/c/gh/make-github-pseudonymous-again/js-array/main.svg)](https://codecov.io/gh/make-github-pseudonymous-again/js-array)
-[![Code technical debt](https://img.shields.io/codeclimate/tech-debt/make-github-pseudonymous-again/js-array.svg)](https://codeclimate.com/github/make-github-pseudonymous-again/js-array/trends/technical_debt)
-[![Documentation](https://make-github-pseudonymous-again.github.io/js-array//badge.svg)](https://make-github-pseudonymous-again.github.io/js-array//source.html)
-[![Package size](https://img.shields.io/bundlephobia/minzip/@aureooms/js-array)](https://bundlephobia.com/result?p=@aureooms/js-array)
+[![Code issues](https://img.shields.io/codeclimate/issues/array-like/experimental.svg)](https://codeclimate.com/github/array-like/experimental/issues)
+[![Code maintainability](https://img.shields.io/codeclimate/maintainability/array-like/experimental.svg)](https://codeclimate.com/github/array-like/experimental/trends/churn)
+[![Code coverage (cov)](https://img.shields.io/codecov/c/gh/array-like/experimental/main.svg)](https://codecov.io/gh/array-like/experimental)
+[![Code technical debt](https://img.shields.io/codeclimate/tech-debt/array-like/experimental.svg)](https://codeclimate.com/github/array-like/experimental/trends/technical_debt)
+[![Documentation](https://array-like.github.io/experimental/badge.svg)](https://array-like.github.io/experimental/source.html)
+[![Package size](https://img.shields.io/bundlephobia/minzip/@array-like/experimental)](https://bundlephobia.com/result?p=@array-like/experimental)

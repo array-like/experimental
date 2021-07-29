@@ -1,38 +1,39 @@
 import test from 'ava';
-import * as array from '../../src';
 
+import {shuffle} from "@randomized/random" ;
+import {increasing, decreasing} from "@total-order/primitive" ;
 
+import {alloc} from '@array-like/alloc';
+import {copy} from '@array-like/copy';
+import {iota} from '@array-like/fill';
 
-import * as random from "@aureooms/js-random" ;
-import * as compare from "@aureooms/js-compare" ;
+import {sort, slice} from '../../src/index.js';
 
 test( "sort", t => {
 
-	var a, b, n;
+	const n = 200;
 
-	n = 200;
+	const a = new Uint16Array( n );
 
-	a = new Uint16Array( n );
+	iota( a, 0, n, 0 );
 
-	array.iota( a, 0, n, 0 );
+	shuffle( a, 0, n );
 
-	random.shuffle( a, 0, n );
+	const b = alloc( n );
 
-	b = array.alloc( n );
+	copy( a, 0, n, b, 0 );
 
-	array.copy( a, 0, n, b, 0 );
+	sort( increasing, a );
 
-	array.sort( compare.increasing, a );
+	b.sort( increasing );
 
-	b.sort( compare.increasing );
-
-	t.deepEqual( array.slice( a, 0, n ) , b, "increasing" );
+	t.deepEqual( slice( a, 0, n ) , b, "increasing" );
 
 
-	array.sort( compare.decreasing, a );
+	sort( decreasing, a );
 
-	b.sort( compare.decreasing );
+	b.sort( decreasing );
 
-	t.deepEqual( array.slice( a, 0, n ) , b, "decreasing" );
+	t.deepEqual( slice( a, 0, n ) , b, "decreasing" );
 
 });

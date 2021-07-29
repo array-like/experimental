@@ -1,32 +1,30 @@
 import test from 'ava';
-import * as array from '../../src';
 
-import * as random from "@aureooms/js-random" ;
+import {alloc} from '@array-like/alloc';
+import {iota} from '@array-like/fill';
+
+import {shuffle} from "@randomized/random" ;
+
+import {set} from '../../src/index.js';
 
 test( "set", t => {
 
-	var a , b , i , n ;
+	const n = 10 ;
 
-	n = 10 ;
+	const a = alloc( n ) ;
 
-	a = array.alloc( n ) ;
+	iota( a , 0 , n , 0 ) ;
 
-	array.iota( a , 0 , n , 0 ) ;
+	shuffle( a , 0 , n ) ;
 
-	random.shuffle( a , 0 , n ) ;
+	const b = alloc( n ) ;
 
-	b = array.alloc( n ) ;
-
-	for ( i = 0 ; i < n ; ++i ) {
-
-		array.set( b , i , a[i] ) ;
-
+	for (let i = 0 ; i < n ; ++i ) {
+		set( b , i , a[i] ) ;
 	}
 
-	for ( i = 0 ; i < n ; ++i ) {
-
+	for (let i = 0 ; i < n ; ++i ) {
 		t.deepEqual( b[i] , a[i] , `${i}` ) ;
-
 	}
 
 } ) ;

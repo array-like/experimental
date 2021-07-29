@@ -2,8 +2,8 @@ import test from 'ava';
 import * as array from '../../../src';
 
 
-import functools from "@aureooms/js-functools" ;
-import operator from "@aureooms/js-operator" ;
+import * as functools from "@functional-abstraction/functools" ;
+import * as operator from "@functional-abstraction/operator" ;
 
 test( "dropwhile", t => {
 function one ( iterable, predicate, expected ) {

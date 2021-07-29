@@ -2,7 +2,7 @@ import test from 'ava';
 import * as array from '../../../src';
 
 
-import operator from "@aureooms/js-operator" ;
+import * as operator from "@functional-abstraction/operator" ;
 test( "group", t => {
 
 function one ( key, iterable, expected ) {

@@ -1,20 +1,20 @@
 import test from 'ava';
-import * as array from '../../src';
 
+import {alloc} from '@array-like/alloc';
+import {iota} from '@array-like/fill';
 
+import {repr} from '../../src/index.js';
 
 test( "repr", t => {
 
-	var a, b, n;
+	const n = 10;
 
-	n = 10;
+	const a = alloc( n );
+	const b = new Uint8Array( n );
 
-	a = array.alloc( n );
-	b = new Uint8Array( n );
+	iota( a, 0, n, 0 );
+	iota( b, 0, n, 0 );
 
-	array.iota( a, 0, n, 0 );
-	array.iota( b, 0, n, 0 );
-
-	t.deepEqual( array.repr( b, 0, n ), JSON.stringify( a ), ":)" );
+	t.is( repr( b, 0, n ), JSON.stringify( a ) );
 
 });

@@ -1,8 +1,11 @@
 import test from 'ava';
-import * as array from '../../src';
 
+import {alloc} from '@array-like/alloc';
+import {iota} from '@array-like/fill';
 
-import * as random from "@aureooms/js-random" ;
+import {shuffle} from "@randomized/random" ;
+
+import {get} from '../../src/index.js';
 
 test( "get", t => {
 
@@ -10,15 +13,15 @@ test( "get", t => {
 
 	n = 10 ;
 
-	a = array.alloc( n ) ;
+	a = alloc( n ) ;
 
-	array.iota( a , 0 , n , 0 ) ;
+	iota( a , 0 , n , 0 ) ;
 
-	random.shuffle( a , 0 , n ) ;
+	shuffle( a , 0 , n ) ;
 
 	for ( i = 0 ; i < n ; ++i ) {
 
-		t.deepEqual( array.get( a , i ) , a[i] , `${i}` ) ;
+		t.is( get( a , i ) , a[i] , `${i}` ) ;
 
 	}
 

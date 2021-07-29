@@ -1,25 +1,28 @@
 import test from 'ava';
-import * as array from '../../../src';
-
 
 import util from "util" ;
 
-import * as compare from "@aureooms/js-compare" ;
+import {increasing, decreasing} from "@total-order/primitive" ;
 
-import operator from "@aureooms/js-operator" ;
+import {contains} from "@functional-abstraction/operator" ;
+
+import {reduce} from '@array-like/reduce';
+
+import {sorted} from '../../../src/index.js';
+
 test( "sorted", t => {
 
 function one ( f, a ) {
 
 	var b, i, initializer;
 
-	b = array.sorted( f, a );
+	b = sorted( f, a );
 
 	t.deepEqual( b.length, a.length, "length check" );
 
 	initializer = {};
 
-	array.reduce( function ( x, y ) {
+	reduce( function ( x, y ) {
 
 		if ( x !== initializer ) {
 
@@ -27,7 +30,7 @@ function one ( f, a ) {
 
 		}
 
-		t.truthy( operator.contains( a, y ), util.format( "%f in %s", y, JSON.stringify( a ) ) );
+		t.truthy( contains( a, y ), util.format( "%f in %s", y, JSON.stringify( a ) ) );
 
 		return y;
 
@@ -36,7 +39,7 @@ function one ( f, a ) {
 };
 
 
-	[compare.increasing, compare.decreasing].forEach( function (f) {
+	[increasing, decreasing].forEach( function (f) {
 
 		var a, i, n;
 

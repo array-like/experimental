@@ -5,10 +5,10 @@ or [npm](https://github.com/npm/npm).
 
 ### jspm
 ```terminal
-jspm install npm:@aureooms/js-array
+jspm install npm:@array-like/experimental
 ```
 
 ### npm
 ```terminal
-npm install @aureooms/js-array --save
+npm install @array-like/experimental --save
 ```

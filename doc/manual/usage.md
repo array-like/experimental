@@ -9,7 +9,7 @@ import 'regenerator-runtime/runtime' ;
 
 Then
 ```js
-const array = require( '@aureooms/js-array' ) ;
+const array = require( '@array-like/experimental' ) ;
 // or
-import array from '@aureooms/js-array' ;
+import array from '@array-like/experimental' ;
 ```
