@@ -120,7 +120,7 @@
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/array-like/experimental.git"
+    "url": "https://github.com/array-like/experimental"
   },
   "scripts": {
     "build": "babel src -d lib",
