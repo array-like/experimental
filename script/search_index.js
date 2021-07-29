@@ -1,284 +1,176 @@
 window.esdocSearchIndex = [
   [
-    "@aureooms/js-array/src/reduce/all.js~all",
-    "function/index.html#static-function-all",
-    "<span>all</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/reduce/all.js</span>",
-    "function"
-  ],
-  [
-    "@aureooms/js-array/src/alloc.js~alloc",
-    "function/index.html#static-function-alloc",
-    "<span>alloc</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/alloc.js</span>",
-    "function"
-  ],
-  [
-    "@aureooms/js-array/src/reduce/any.js~any",
-    "function/index.html#static-function-any",
-    "<span>any</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/reduce/any.js</span>",
-    "function"
-  ],
-  [
-    "@aureooms/js-array/src/argmax.js~argmax",
-    "function/index.html#static-function-argmax",
-    "<span>argmax</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/argmax.js</span>",
-    "function"
-  ],
-  [
-    "@aureooms/js-array/src/argmin.js~argmin",
-    "function/index.html#static-function-argmin",
-    "<span>argmin</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/argmin.js</span>",
-    "function"
-  ],
-  [
-    "@aureooms/js-array/src/map/chain.js~chain",
+    "@array-like/experimental/src/map/chain.js~chain",
     "function/index.html#static-function-chain",
-    "<span>chain</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/map/chain.js</span>",
+    "<span>chain</span> <span class=\"search-result-import-path\">@array-like/experimental/src/map/chain.js</span>",
     "function"
   ],
   [
-    "@aureooms/js-array/src/map/combinations.js~combinations",
+    "@array-like/experimental/src/map/combinations.js~combinations",
     "function/index.html#static-function-combinations",
-    "<span>combinations</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/map/combinations.js</span>",
+    "<span>combinations</span> <span class=\"search-result-import-path\">@array-like/experimental/src/map/combinations.js</span>",
     "function"
   ],
   [
-    "@aureooms/js-array/src/map/combinationswithrepetition.js~combinationswithrepetition",
+    "@array-like/experimental/src/map/combinationswithrepetition.js~combinationswithrepetition",
     "function/index.html#static-function-combinationswithrepetition",
-    "<span>combinationswithrepetition</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/map/combinationswithrepetition.js</span>",
+    "<span>combinationswithrepetition</span> <span class=\"search-result-import-path\">@array-like/experimental/src/map/combinationswithrepetition.js</span>",
     "function"
   ],
   [
-    "@aureooms/js-array/src/map/compress.js~compress",
+    "@array-like/experimental/src/map/compress.js~compress",
     "function/index.html#static-function-compress",
-    "<span>compress</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/map/compress.js</span>",
+    "<span>compress</span> <span class=\"search-result-import-path\">@array-like/experimental/src/map/compress.js</span>",
     "function"
   ],
   [
-    "@aureooms/js-array/src/copy.js~copy",
-    "function/index.html#static-function-copy",
-    "<span>copy</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/copy.js</span>",
-    "function"
-  ],
-  [
-    "@aureooms/js-array/src/map/dropwhile.js~dropwhile",
+    "@array-like/experimental/src/map/dropwhile.js~dropwhile",
     "function/index.html#static-function-dropwhile",
-    "<span>dropwhile</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/map/dropwhile.js</span>",
+    "<span>dropwhile</span> <span class=\"search-result-import-path\">@array-like/experimental/src/map/dropwhile.js</span>",
     "function"
   ],
   [
-    "@aureooms/js-array/src/each.js~each",
+    "@array-like/experimental/src/each.js~each",
     "function/index.html#static-function-each",
-    "<span>each</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/each.js</span>",
+    "<span>each</span> <span class=\"search-result-import-path\">@array-like/experimental/src/each.js</span>",
     "function"
   ],
   [
-    "@aureooms/js-array/src/map/enumerate.js~enumerate",
+    "@array-like/experimental/src/map/enumerate.js~enumerate",
     "function/index.html#static-function-enumerate",
-    "<span>enumerate</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/map/enumerate.js</span>",
+    "<span>enumerate</span> <span class=\"search-result-import-path\">@array-like/experimental/src/map/enumerate.js</span>",
     "function"
   ],
   [
-    "@aureooms/js-array/src/fill.js~fill",
-    "function/index.html#static-function-fill",
-    "<span>fill</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/fill.js</span>",
-    "function"
-  ],
-  [
-    "@aureooms/js-array/src/fillfn.js~fillfn",
-    "function/index.html#static-function-fillfn",
-    "<span>fillfn</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/fillfn.js</span>",
-    "function"
-  ],
-  [
-    "@aureooms/js-array/src/map/filter.js~filter",
+    "@array-like/experimental/src/map/filter.js~filter",
     "function/index.html#static-function-filter",
-    "<span>filter</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/map/filter.js</span>",
+    "<span>filter</span> <span class=\"search-result-import-path\">@array-like/experimental/src/map/filter.js</span>",
     "function"
   ],
   [
-    "@aureooms/js-array/src/map/filterfalse.js~filterfalse",
+    "@array-like/experimental/src/map/filterfalse.js~filterfalse",
     "function/index.html#static-function-filterfalse",
-    "<span>filterfalse</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/map/filterfalse.js</span>",
+    "<span>filterfalse</span> <span class=\"search-result-import-path\">@array-like/experimental/src/map/filterfalse.js</span>",
     "function"
   ],
   [
-    "@aureooms/js-array/src/get.js~get",
+    "@array-like/experimental/src/get.js~get",
     "function/index.html#static-function-get",
-    "<span>get</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/get.js</span>",
+    "<span>get</span> <span class=\"search-result-import-path\">@array-like/experimental/src/get.js</span>",
     "function"
   ],
   [
-    "@aureooms/js-array/src/map/group.js~group",
+    "@array-like/experimental/src/map/group.js~group",
     "function/index.html#static-function-group",
-    "<span>group</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/map/group.js</span>",
+    "<span>group</span> <span class=\"search-result-import-path\">@array-like/experimental/src/map/group.js</span>",
     "function"
   ],
   [
-    "@aureooms/js-array/src/iota.js~iota",
-    "function/index.html#static-function-iota",
-    "<span>iota</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/iota.js</span>",
-    "function"
-  ],
-  [
-    "@aureooms/js-array/src/map/islice.js~islice",
+    "@array-like/experimental/src/map/islice.js~islice",
     "function/index.html#static-function-islice",
-    "<span>islice</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/map/islice.js</span>",
+    "<span>islice</span> <span class=\"search-result-import-path\">@array-like/experimental/src/map/islice.js</span>",
     "function"
   ],
   [
-    "@aureooms/js-array/src/map/map.js~map",
+    "@array-like/experimental/src/map/map.js~map",
     "function/index.html#static-function-map",
-    "<span>map</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/map/map.js</span>",
+    "<span>map</span> <span class=\"search-result-import-path\">@array-like/experimental/src/map/map.js</span>",
     "function"
   ],
   [
-    "@aureooms/js-array/src/max.js~max",
-    "function/index.html#static-function-max",
-    "<span>max</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/max.js</span>",
-    "function"
-  ],
-  [
-    "@aureooms/js-array/src/min.js~min",
-    "function/index.html#static-function-min",
-    "<span>min</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/min.js</span>",
-    "function"
-  ],
-  [
-    "@aureooms/js-array/src/map/permutations.js~permutations",
+    "@array-like/experimental/src/map/permutations.js~permutations",
     "function/index.html#static-function-permutations",
-    "<span>permutations</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/map/permutations.js</span>",
+    "<span>permutations</span> <span class=\"search-result-import-path\">@array-like/experimental/src/map/permutations.js</span>",
     "function"
   ],
   [
-    "@aureooms/js-array/src/utils/pick.js~pick",
+    "@array-like/experimental/src/utils/pick.js~pick",
     "function/index.html#static-function-pick",
-    "<span>pick</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/utils/pick.js</span>",
+    "<span>pick</span> <span class=\"search-result-import-path\">@array-like/experimental/src/utils/pick.js</span>",
     "function"
   ],
   [
-    "@aureooms/js-array/src/map/product.js~product",
+    "@array-like/experimental/src/map/product.js~product",
     "function/index.html#static-function-product",
-    "<span>product</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/map/product.js</span>",
+    "<span>product</span> <span class=\"search-result-import-path\">@array-like/experimental/src/map/product.js</span>",
     "function"
   ],
   [
-    "@aureooms/js-array/src/utils/range.js~range",
+    "@array-like/experimental/src/utils/range.js~range",
     "function/index.html#static-function-range",
-    "<span>range</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/utils/range.js</span>",
+    "<span>range</span> <span class=\"search-result-import-path\">@array-like/experimental/src/utils/range.js</span>",
     "function"
   ],
   [
-    "@aureooms/js-array/src/realloc.js~realloc",
-    "function/index.html#static-function-realloc",
-    "<span>realloc</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/realloc.js</span>",
-    "function"
-  ],
-  [
-    "@aureooms/js-array/src/reduce/reduce.js~reduce",
-    "function/index.html#static-function-reduce",
-    "<span>reduce</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/reduce/reduce.js</span>",
-    "function"
-  ],
-  [
-    "@aureooms/js-array/src/map/repeat.js~repeat",
+    "@array-like/experimental/src/map/repeat.js~repeat",
     "function/index.html#static-function-repeat",
-    "<span>repeat</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/map/repeat.js</span>",
+    "<span>repeat</span> <span class=\"search-result-import-path\">@array-like/experimental/src/map/repeat.js</span>",
     "function"
   ],
   [
-    "@aureooms/js-array/src/repr.js~repr",
+    "@array-like/experimental/src/repr.js~repr",
     "function/index.html#static-function-repr",
-    "<span>repr</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/repr.js</span>",
+    "<span>repr</span> <span class=\"search-result-import-path\">@array-like/experimental/src/repr.js</span>",
     "function"
   ],
   [
-    "@aureooms/js-array/src/reverse.js~reverse",
-    "function/index.html#static-function-reverse",
-    "<span>reverse</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/reverse.js</span>",
-    "function"
-  ],
-  [
-    "@aureooms/js-array/src/map/reversed.js~reversed",
+    "@array-like/experimental/src/map/reversed.js~reversed",
     "function/index.html#static-function-reversed",
-    "<span>reversed</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/map/reversed.js</span>",
+    "<span>reversed</span> <span class=\"search-result-import-path\">@array-like/experimental/src/map/reversed.js</span>",
     "function"
   ],
   [
-    "@aureooms/js-array/src/rotate.js~rotate",
-    "function/index.html#static-function-rotate",
-    "<span>rotate</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/rotate.js</span>",
-    "function"
-  ],
-  [
-    "@aureooms/js-array/src/set.js~set",
+    "@array-like/experimental/src/set.js~set",
     "function/index.html#static-function-set",
-    "<span>set</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/set.js</span>",
+    "<span>set</span> <span class=\"search-result-import-path\">@array-like/experimental/src/set.js</span>",
     "function"
   ],
   [
-    "@aureooms/js-array/src/slice.js~slice",
+    "@array-like/experimental/src/slice.js~slice",
     "function/index.html#static-function-slice",
-    "<span>slice</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/slice.js</span>",
+    "<span>slice</span> <span class=\"search-result-import-path\">@array-like/experimental/src/slice.js</span>",
     "function"
   ],
   [
-    "@aureooms/js-array/src/sort.js~sort",
+    "@array-like/experimental/src/sort.js~sort",
     "function/index.html#static-function-sort",
-    "<span>sort</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/sort.js</span>",
+    "<span>sort</span> <span class=\"search-result-import-path\">@array-like/experimental/src/sort.js</span>",
     "function"
   ],
   [
-    "@aureooms/js-array/src/map/sorted.js~sorted",
+    "@array-like/experimental/src/map/sorted.js~sorted",
     "function/index.html#static-function-sorted",
-    "<span>sorted</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/map/sorted.js</span>",
+    "<span>sorted</span> <span class=\"search-result-import-path\">@array-like/experimental/src/map/sorted.js</span>",
     "function"
   ],
   [
-    "@aureooms/js-array/src/splice.js~splice",
+    "@array-like/experimental/src/splice.js~splice",
     "function/index.html#static-function-splice",
-    "<span>splice</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/splice.js</span>",
+    "<span>splice</span> <span class=\"search-result-import-path\">@array-like/experimental/src/splice.js</span>",
     "function"
   ],
   [
-    "@aureooms/js-array/src/map/starmap.js~starmap",
+    "@array-like/experimental/src/map/starmap.js~starmap",
     "function/index.html#static-function-starmap",
-    "<span>starmap</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/map/starmap.js</span>",
+    "<span>starmap</span> <span class=\"search-result-import-path\">@array-like/experimental/src/map/starmap.js</span>",
     "function"
   ],
   [
-    "@aureooms/js-array/src/reduce/sum.js~sum",
-    "function/index.html#static-function-sum",
-    "<span>sum</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/reduce/sum.js</span>",
-    "function"
-  ],
-  [
-    "@aureooms/js-array/src/swap.js~swap",
-    "function/index.html#static-function-swap",
-    "<span>swap</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/swap.js</span>",
-    "function"
-  ],
-  [
-    "@aureooms/js-array/src/swapranges.js~swapranges",
-    "function/index.html#static-function-swapranges",
-    "<span>swapranges</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/swapranges.js</span>",
-    "function"
-  ],
-  [
-    "@aureooms/js-array/src/map/takewhile.js~takewhile",
+    "@array-like/experimental/src/map/takewhile.js~takewhile",
     "function/index.html#static-function-takewhile",
-    "<span>takewhile</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/map/takewhile.js</span>",
+    "<span>takewhile</span> <span class=\"search-result-import-path\">@array-like/experimental/src/map/takewhile.js</span>",
     "function"
   ],
   [
-    "@aureooms/js-array/src/utils/tee.js~tee",
+    "@array-like/experimental/src/utils/tee.js~tee",
     "function/index.html#static-function-tee",
-    "<span>tee</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/utils/tee.js</span>",
+    "<span>tee</span> <span class=\"search-result-import-path\">@array-like/experimental/src/utils/tee.js</span>",
     "function"
   ],
   [
-    "@aureooms/js-array/src/map/zip.js~zip",
+    "@array-like/experimental/src/map/zip.js~zip",
     "function/index.html#static-function-zip",
-    "<span>zip</span> <span class=\"search-result-import-path\">@aureooms/js-array/src/map/zip.js</span>",
+    "<span>zip</span> <span class=\"search-result-import-path\">@array-like/experimental/src/map/zip.js</span>",
     "function"
   ],
   [
@@ -564,45 +456,9 @@ window.esdocSearchIndex = [
     "external"
   ],
   [
-    "src/alloc.js",
-    "file/src/alloc.js.html",
-    "src/alloc.js",
-    "file"
-  ],
-  [
-    "src/argmax.js",
-    "file/src/argmax.js.html",
-    "src/argmax.js",
-    "file"
-  ],
-  [
-    "src/argmin.js",
-    "file/src/argmin.js.html",
-    "src/argmin.js",
-    "file"
-  ],
-  [
-    "src/copy.js",
-    "file/src/copy.js.html",
-    "src/copy.js",
-    "file"
-  ],
-  [
     "src/each.js",
     "file/src/each.js.html",
     "src/each.js",
-    "file"
-  ],
-  [
-    "src/fill.js",
-    "file/src/fill.js.html",
-    "src/fill.js",
-    "file"
-  ],
-  [
-    "src/fillfn.js",
-    "file/src/fillfn.js.html",
-    "src/fillfn.js",
     "file"
   ],
   [
@@ -615,12 +471,6 @@ window.esdocSearchIndex = [
     "src/index.js",
     "file/src/index.js.html",
     "src/index.js",
-    "file"
-  ],
-  [
-    "src/iota.js",
-    "file/src/iota.js.html",
-    "src/iota.js",
     "file"
   ],
   [
@@ -744,69 +594,9 @@ window.esdocSearchIndex = [
     "file"
   ],
   [
-    "src/max.js",
-    "file/src/max.js.html",
-    "src/max.js",
-    "file"
-  ],
-  [
-    "src/min.js",
-    "file/src/min.js.html",
-    "src/min.js",
-    "file"
-  ],
-  [
-    "src/realloc.js",
-    "file/src/realloc.js.html",
-    "src/realloc.js",
-    "file"
-  ],
-  [
-    "src/reduce/all.js",
-    "file/src/reduce/all.js.html",
-    "src/reduce/all.js",
-    "file"
-  ],
-  [
-    "src/reduce/any.js",
-    "file/src/reduce/any.js.html",
-    "src/reduce/any.js",
-    "file"
-  ],
-  [
-    "src/reduce/index.js",
-    "file/src/reduce/index.js.html",
-    "src/reduce/index.js",
-    "file"
-  ],
-  [
-    "src/reduce/reduce.js",
-    "file/src/reduce/reduce.js.html",
-    "src/reduce/reduce.js",
-    "file"
-  ],
-  [
-    "src/reduce/sum.js",
-    "file/src/reduce/sum.js.html",
-    "src/reduce/sum.js",
-    "file"
-  ],
-  [
     "src/repr.js",
     "file/src/repr.js.html",
     "src/repr.js",
-    "file"
-  ],
-  [
-    "src/reverse.js",
-    "file/src/reverse.js.html",
-    "src/reverse.js",
-    "file"
-  ],
-  [
-    "src/rotate.js",
-    "file/src/rotate.js.html",
-    "src/rotate.js",
     "file"
   ],
   [
@@ -831,18 +621,6 @@ window.esdocSearchIndex = [
     "src/splice.js",
     "file/src/splice.js.html",
     "src/splice.js",
-    "file"
-  ],
-  [
-    "src/swap.js",
-    "file/src/swap.js.html",
-    "src/swap.js",
-    "file"
-  ],
-  [
-    "src/swapranges.js",
-    "file/src/swapranges.js.html",
-    "src/swapranges.js",
     "file"
   ],
   [

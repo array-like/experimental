@@ -1,139 +1,90 @@
 {
-  "coverage": "8.51%",
-  "expectCount": 47,
-  "actualCount": 4,
+  "coverage": "6.89%",
+  "expectCount": 29,
+  "actualCount": 2,
   "files": {
-    "src/alloc.js": {
-      "expectCount": 1,
-      "actualCount": 0,
-      "undocumentLines": [
-        2
-      ]
-    },
-    "src/argmax.js": {
-      "expectCount": 1,
-      "actualCount": 0,
-      "undocumentLines": [
-        3
-      ]
-    },
-    "src/argmin.js": {
-      "expectCount": 1,
-      "actualCount": 0,
-      "undocumentLines": [
-        3
-      ]
-    },
-    "src/copy.js": {
-      "expectCount": 1,
-      "actualCount": 0,
-      "undocumentLines": [
-        3
-      ]
-    },
     "src/each.js": {
       "expectCount": 1,
       "actualCount": 0,
       "undocumentLines": [
-        2
-      ]
-    },
-    "src/fill.js": {
-      "expectCount": 1,
-      "actualCount": 0,
-      "undocumentLines": [
-        3
-      ]
-    },
-    "src/fillfn.js": {
-      "expectCount": 1,
-      "actualCount": 0,
-      "undocumentLines": [
-        3
+        1
       ]
     },
     "src/get.js": {
       "expectCount": 1,
       "actualCount": 0,
       "undocumentLines": [
-        2
-      ]
-    },
-    "src/iota.js": {
-      "expectCount": 1,
-      "actualCount": 0,
-      "undocumentLines": [
-        3
+        1
       ]
     },
     "src/map/chain.js": {
       "expectCount": 1,
       "actualCount": 0,
       "undocumentLines": [
-        2
+        1
       ]
     },
     "src/map/combinations.js": {
       "expectCount": 1,
       "actualCount": 0,
       "undocumentLines": [
-        3
+        4
       ]
     },
     "src/map/combinationswithrepetition.js": {
       "expectCount": 1,
       "actualCount": 0,
       "undocumentLines": [
-        3
+        4
       ]
     },
     "src/map/compress.js": {
       "expectCount": 1,
       "actualCount": 0,
       "undocumentLines": [
-        3
+        1
       ]
     },
     "src/map/dropwhile.js": {
       "expectCount": 1,
       "actualCount": 0,
       "undocumentLines": [
-        2
+        1
       ]
     },
     "src/map/enumerate.js": {
       "expectCount": 1,
       "actualCount": 0,
       "undocumentLines": [
-        3
+        4
       ]
     },
     "src/map/filter.js": {
       "expectCount": 1,
       "actualCount": 0,
       "undocumentLines": [
-        2
+        1
       ]
     },
     "src/map/filterfalse.js": {
       "expectCount": 1,
       "actualCount": 0,
       "undocumentLines": [
-        2
+        1
       ]
     },
     "src/map/group.js": {
       "expectCount": 1,
       "actualCount": 0,
       "undocumentLines": [
-        2
+        1
       ]
     },
     "src/map/islice.js": {
       "expectCount": 1,
       "actualCount": 0,
       "undocumentLines": [
-        3
+        4
       ]
     },
     "src/map/map.js": {
@@ -145,35 +96,35 @@
       "expectCount": 1,
       "actualCount": 0,
       "undocumentLines": [
-        3
+        4
       ]
     },
     "src/map/product.js": {
       "expectCount": 1,
       "actualCount": 0,
       "undocumentLines": [
-        3
+        1
       ]
     },
     "src/map/repeat.js": {
       "expectCount": 1,
       "actualCount": 0,
       "undocumentLines": [
-        3
+        1
       ]
     },
     "src/map/reversed.js": {
       "expectCount": 1,
       "actualCount": 0,
       "undocumentLines": [
-        2
+        1
       ]
     },
     "src/map/sorted.js": {
       "expectCount": 1,
       "actualCount": 0,
       "undocumentLines": [
-        3
+        1
       ]
     },
     "src/map/starmap.js": {
@@ -185,61 +136,14 @@
       "expectCount": 1,
       "actualCount": 0,
       "undocumentLines": [
-        2
+        1
       ]
     },
     "src/map/zip.js": {
       "expectCount": 1,
       "actualCount": 0,
       "undocumentLines": [
-        3
-      ]
-    },
-    "src/max.js": {
-      "expectCount": 1,
-      "actualCount": 0,
-      "undocumentLines": [
-        3
-      ]
-    },
-    "src/min.js": {
-      "expectCount": 1,
-      "actualCount": 0,
-      "undocumentLines": [
-        3
-      ]
-    },
-    "src/realloc.js": {
-      "expectCount": 1,
-      "actualCount": 0,
-      "undocumentLines": [
-        3
-      ]
-    },
-    "src/reduce/all.js": {
-      "expectCount": 1,
-      "actualCount": 0,
-      "undocumentLines": [
-        2
-      ]
-    },
-    "src/reduce/any.js": {
-      "expectCount": 1,
-      "actualCount": 0,
-      "undocumentLines": [
-        2
-      ]
-    },
-    "src/reduce/reduce.js": {
-      "expectCount": 1,
-      "actualCount": 1,
-      "undocumentLines": []
-    },
-    "src/reduce/sum.js": {
-      "expectCount": 1,
-      "actualCount": 0,
-      "undocumentLines": [
-        3
+        1
       ]
     },
     "src/repr.js": {
@@ -249,54 +153,28 @@
         3
       ]
     },
-    "src/reverse.js": {
-      "expectCount": 1,
-      "actualCount": 0,
-      "undocumentLines": [
-        3
-      ]
-    },
-    "src/rotate.js": {
-      "expectCount": 1,
-      "actualCount": 1,
-      "undocumentLines": []
-    },
     "src/set.js": {
       "expectCount": 1,
       "actualCount": 0,
       "undocumentLines": [
-        2
+        1
       ]
     },
     "src/slice.js": {
       "expectCount": 1,
       "actualCount": 0,
       "undocumentLines": [
-        2
+        1
       ]
     },
     "src/sort.js": {
       "expectCount": 1,
       "actualCount": 0,
       "undocumentLines": [
-        2
+        1
       ]
     },
     "src/splice.js": {
-      "expectCount": 1,
-      "actualCount": 0,
-      "undocumentLines": [
-        3
-      ]
-    },
-    "src/swap.js": {
-      "expectCount": 1,
-      "actualCount": 0,
-      "undocumentLines": [
-        2
-      ]
-    },
-    "src/swapranges.js": {
       "expectCount": 1,
       "actualCount": 0,
       "undocumentLines": [
@@ -307,21 +185,21 @@
       "expectCount": 1,
       "actualCount": 0,
       "undocumentLines": [
-        2
+        1
       ]
     },
     "src/utils/range.js": {
       "expectCount": 1,
       "actualCount": 0,
       "undocumentLines": [
-        3
+        1
       ]
     },
     "src/utils/tee.js": {
       "expectCount": 1,
       "actualCount": 0,
       "undocumentLines": [
-        3
+        1
       ]
     }
   }
