@@ -1,4 +1,4 @@
-import { repeat , pick } from '..' ;
+import { repeat , pick } from '../index.js' ;
 
 export function combinationswithrepetition ( iterable, r, out ) {
 

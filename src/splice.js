@@ -1,4 +1,4 @@
-import { slice } from '.' ;
+import { slice } from './slice.js' ;
 
 export function splice ( a, ai, aj, b, bi, bj ) {
 

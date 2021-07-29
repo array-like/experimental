@@ -1,4 +1,4 @@
-import { zip , range } from '..' ;
+import { zip , range } from '../index.js' ;
 
 export function enumerate ( iterable, out ) {
 

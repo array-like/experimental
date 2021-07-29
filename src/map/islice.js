@@ -1,4 +1,4 @@
-import { pick , range } from '..' ;
+import { pick , range } from '../index.js' ;
 
 export function islice ( iterable, start, stop, step, out ) {
 

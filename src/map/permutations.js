@@ -1,4 +1,4 @@
-import { range , pick } from '..' ;
+import { range , pick } from '../index.js' ;
 
 export function permutations( iterable, repeat, out ) {
 
