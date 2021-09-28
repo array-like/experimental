@@ -71,7 +71,7 @@
     "@babel/core": "7.15.5",
     "@babel/preset-env": "7.15.6",
     "@babel/register": "7.15.3",
-    "@commitlint/cli": "13.1.0",
+    "@commitlint/cli": "13.2.0",
     "@functional-abstraction/functools": "3.0.2",
     "@functional-abstraction/operator": "3.0.0",
     "@js-library/commitlint-config": "0.0.4",
