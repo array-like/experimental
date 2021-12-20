@@ -22,7 +22,7 @@ test('group', (t) => {
 		['C', ['C', 'C']],
 	]);
 
-	one((item) => item.charCodeAt(0) - 65, 'AAAAAABBBBCCCCAABBCC', [
+	one((item) => item.codePointAt(0) - 65, 'AAAAAABBBBCCCCAABBCC', [
 		[0, ['A', 'A', 'A', 'A', 'A', 'A']],
 		[1, ['B', 'B', 'B', 'B']],
 		[2, ['C', 'C', 'C', 'C']],
@@ -32,7 +32,7 @@ test('group', (t) => {
 	]);
 
 	one(
-		(item) => Math.floor((item.charCodeAt(0) - 65) / 2),
+		(item) => Math.floor((item.codePointAt(0) - 65) / 2),
 		'AAAAAABBBBCCCCAABBCC',
 		[
 			[0, ['A', 'A', 'A', 'A', 'A', 'A', 'B', 'B', 'B', 'B']],
