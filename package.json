@@ -69,7 +69,7 @@
     "@array-like/fill": "0.0.1",
     "@array-like/reduce": "0.0.1",
     "@babel/core": "7.22.11",
-    "@babel/preset-env": "7.22.10",
+    "@babel/preset-env": "7.22.14",
     "@babel/register": "7.22.5",
     "@commitlint/cli": "17.7.1",
     "@functional-abstraction/functools": "3.0.2",
