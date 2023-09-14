@@ -68,7 +68,7 @@
     "@array-like/copy": "0.0.1",
     "@array-like/fill": "0.0.1",
     "@array-like/reduce": "0.0.1",
-    "@babel/core": "7.22.17",
+    "@babel/core": "7.22.19",
     "@babel/preset-env": "7.22.15",
     "@babel/register": "7.22.15",
     "@commitlint/cli": "17.7.1",
