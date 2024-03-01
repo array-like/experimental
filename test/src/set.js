@@ -2,7 +2,6 @@ import test from 'ava';
 
 import {alloc} from '@array-like/alloc';
 import {iota} from '@array-like/fill';
-
 import {shuffle} from '@randomized/random';
 
 import {set} from '#module';

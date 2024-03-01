@@ -1,11 +1,10 @@
 import util from 'node:util';
+
 import test from 'ava';
 
-import {increasing, decreasing} from '@total-order/primitive';
-
-import {contains} from '@functional-abstraction/operator';
-
 import {reduce} from '@array-like/reduce';
+import {contains} from '@functional-abstraction/operator';
+import {increasing, decreasing} from '@total-order/primitive';
 
 import {sorted} from '#module';
 

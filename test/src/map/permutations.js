@@ -1,4 +1,5 @@
 import test from 'ava';
+
 import * as array from '#module';
 
 test('permutations', (t) => {

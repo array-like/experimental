@@ -1,5 +1,5 @@
-import {range} from '../utils/range.js';
 import {pick} from '../utils/pick.js';
+import {range} from '../utils/range.js';
 
 export function permutations(iterable, repeat, out) {
 	// Permutations('ABCD', 2) --> AB AC AD BA BC BD CA CB CD DA DB DC

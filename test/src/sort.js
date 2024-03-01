@@ -1,11 +1,10 @@
 import test from 'ava';
 
-import {shuffle} from '@randomized/random';
-import {increasing, decreasing} from '@total-order/primitive';
-
 import {alloc} from '@array-like/alloc';
 import {copy} from '@array-like/copy';
 import {iota} from '@array-like/fill';
+import {shuffle} from '@randomized/random';
+import {increasing, decreasing} from '@total-order/primitive';
 
 import {sort, slice} from '#module';
 

@@ -1,4 +1,5 @@
 import {range} from '../utils/range.js';
+
 import {zip} from './zip.js';
 
 export function enumerate(iterable, out) {

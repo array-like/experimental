@@ -1,5 +1,7 @@
 import test from 'ava';
+
 import * as operator from '@functional-abstraction/operator';
+
 import * as array from '#module';
 
 test('group', (t) => {
