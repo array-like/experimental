@@ -213,7 +213,8 @@
       "unicorn/prefer-math-trunc": "off",
       "unicorn/no-new-array": "off",
       "no-negated-condition": "off",
-      "ava/assertion-arguments": "off"
+      "ava/assertion-arguments": "off",
+      "unicorn/prefer-node-protocol": "off"
     },
     "overrides": [
       {
