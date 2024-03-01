@@ -2,7 +2,7 @@ import test from 'ava';
 
 import * as functools from '@functional-abstraction/functools';
 import * as operator from '@functional-abstraction/operator';
-import * as array from '../../../src/index.js';
+import * as array from '#module';
 
 test('dropwhile', (t) => {
 	function one(iterable, predicate, expected) {

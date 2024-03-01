@@ -1,5 +1,5 @@
 import test from 'ava';
-import * as array from '../../../src/index.js';
+import * as array from '#module';
 
 test('compress', (t) => {
 	function one(iterable, selector, expected) {

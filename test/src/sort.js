@@ -7,7 +7,7 @@ import {alloc} from '@array-like/alloc';
 import {copy} from '@array-like/copy';
 import {iota} from '@array-like/fill';
 
-import {sort, slice} from '../../src/index.js';
+import {sort, slice} from '#module';
 
 test('sort', (t) => {
 	const n = 200;

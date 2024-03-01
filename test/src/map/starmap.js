@@ -1,6 +1,6 @@
 import test from 'ava';
 import * as operator from '@functional-abstraction/operator';
-import * as array from '../../../src/index.js';
+import * as array from '#module';
 
 test('starmap', (t) => {
 	function one(callable, iterable, out) {

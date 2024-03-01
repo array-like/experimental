@@ -5,7 +5,7 @@ import {iota} from '@array-like/fill';
 
 import {shuffle} from '@randomized/random';
 
-import {set} from '../../src/index.js';
+import {set} from '#module';
 
 test('set', (t) => {
 	const n = 10;

@@ -3,7 +3,7 @@ import test from 'ava';
 import {alloc} from '@array-like/alloc';
 import {iota} from '@array-like/fill';
 
-import {splice} from '../../src/index.js';
+import {splice} from '#module';
 
 test('splice', (t) => {
 	const m = 3;

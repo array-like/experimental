@@ -3,7 +3,7 @@ import test from 'ava';
 import {alloc} from '@array-like/alloc';
 import {iota} from '@array-like/fill';
 
-import {repr} from '../../src/index.js';
+import {repr} from '#module';
 
 test('repr', (t) => {
 	const n = 10;

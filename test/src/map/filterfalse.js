@@ -1,5 +1,5 @@
 import test from 'ava';
-import * as array from '../../../src/index.js';
+import * as array from '#module';
 
 test('filterfalse', (t) => {
 	const one = function (predicate, iterable, out) {

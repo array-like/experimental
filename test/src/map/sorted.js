@@ -7,7 +7,7 @@ import {contains} from '@functional-abstraction/operator';
 
 import {reduce} from '@array-like/reduce';
 
-import {sorted} from '../../../src/index.js';
+import {sorted} from '#module';
 
 test('sorted', (t) => {
 	function one(f, a) {
