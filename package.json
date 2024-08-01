@@ -76,7 +76,7 @@
     "@array-like/fill": "0.0.1",
     "@array-like/reduce": "0.0.1",
     "@babel/core": "7.25.2",
-    "@babel/preset-env": "7.25.2",
+    "@babel/preset-env": "7.25.3",
     "@commitlint/cli": "19.3.0",
     "@functional-abstraction/functools": "3.0.2",
     "@functional-abstraction/operator": "3.0.0",
